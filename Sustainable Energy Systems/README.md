@@ -9,13 +9,12 @@ Develop a feasible strategy to improve the sustainability of heating and electri
 Teams may present their solutions in a variety of formats, including but not limited to slide presentations, interactive websites/dashboards, physical prototypes, or simulations. 
 
 ## Potential Solutions
-|Solution|Description|Resources|
-|:---|:---|:---|
-|Energy forecasting & load prediction|Analyze historical energy consumption and weather data to forecast peak loads and optimize energy use.|<ul><li>Energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Website framework</li></ul>|
-|Low-Emission Electricity Options Assessment|Assess low-emission electricity sources (e.g. solar, wind, hydro) by comparing cost, emissions, reliability, scalability, and campus suitability.|<ul><li>Energy consumption data</li><li>Energy data – Sustainability | University of Waterloo</li><li>System Advisor Model (SAM)</li><li>PyPSA</li><li>Interactive maps/dashboards (HTML, CSS, JavaScript)</li></ul>|
-|Solar PV analysis|Evaluate potential solar PV installations across campus.|<ul><li>Map of Shade</li><li>PVWatts / pvlib</li><li>ArcGIS Pro</li></ul>|
-|Geothermal & alternative heating|Evaluate renewable heating solutions for campus heating and cooling.|<ul><li>Geothermal infrastructure tour</li><li>Weather data</li><li>GHEDesigner</li></ul>|
-|Scavenging energy|Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs.|<ul><li>Facility infrastructure information</li><li>Energy Consumption data</li></ul>|
+| Solution | Description | Resources |
+|:---------|:------------|:----------|
+| **Energy Forecasting & Load Prediction** | Build models to predict campus electricity and heating demand based on weather, academic calendar, and historical usage. | <ul><li>Historical energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Dashboard frameworks (Plotly Dash, Streamlit, or HTML/CSS/JS)</li></ul> |
+| **Solar PV Potential Analysis** | Assess the technical and economic feasibility of installing solar PV on campus rooftops, parking lots, or open land. | <ul><li>Map of Shade</li><li>PVWatts / pvlib / PyPSA</li><li>System Advisor Model</li><li>Site suitability mapping (ArcGIS Pro or QGIS)</li></ul> |
+| **Geothermal & Alternative Heating** | Evaluate the potential for ground-source heat pumps or other renewable heating/cooling technologies to replace or supplement the existing district energy system. | <ul><li>Geothermal infrastructure tour</li><li>Weather data</li><li>GHEDesigner / FEFLOW</li><li>Historical energy consumption data</li></ul> |
+| **Energy Scavenging** | Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs. | <ul><li>Facility infrastructure information</li><li>Historical energy consumption data</li><li>Case studies on waste heat recovery</li><li>Thermodynamic analysis tools (Python libraries or Engineering Equation Solver)</li></ul> |
 
 ## Resources
 - [University of Waterloo Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
@@ -45,17 +44,18 @@ This dataset contains daily academic calendar indicators used to model campus oc
 | Lecture Days in Month | Total number of lecture days in the corresponding month |
 
 ### Electricity Consumption Monthly
-This dataset provides monthly electricity consumption for following campus buildings:
-•	Columbia Icefield (CIF)
-•	East Campus 1 (EC1)
-•	East Campus 2 (EC2)
-•	East Campus 3 (EC3)
-•	East Campus 4 (EC4)
-•	East Campus 5 (EC5)
-•	East Campus Hall (ECH)
-•	Research Advancement Centre 2 (RA2)
-•	Research Advancement Centre (RAC)
-•	UW Place (UWP)
+This dataset provides monthly electricity consumption for the following campus buildings:
+- Columbia Icefield (CIF)
+- East Campus 1 (EC1)
+- East Campus 2 (EC2)
+- East Campus 3 (EC3)
+- East Campus 4 (EC4)
+- East Campus 5 (EC5)
+- East Campus Hall (ECH)
+- Research Advancement Centre 2 (RA2)
+- Research Advancement Centre (RAC)
+- UW Place (UWP)
+
 The data may represent meter level electricity consumption rather than strictly whole building usage.
 
 | Column | Definition |

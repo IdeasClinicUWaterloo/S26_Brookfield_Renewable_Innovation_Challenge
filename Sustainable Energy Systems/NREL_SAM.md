@@ -1,6 +1,6 @@
 # Solar PV Simulation with NREL SAM
 
-This guide provides a step-by-step workflow for simulating a solar photovoltaic (PV) system at the University of Waterloo campus using NREL's System Advisor Model (SAM). SAM is a free tool for modeling renewable energy performance, finances, and environmental impacts. This example can be extended to hybrid systems (e.g. PV + battery ) or integrated with other renewable options.
+This guide provides a step-by-step workflow for simulating a solar photovoltaic (PV) system at the University of Waterloo campus using NREL's System Advisor Model (SAM). SAM is a free tool for modeling renewable energy performance, finances, and environmental impacts. This example can be extended to hybrid systems (e.g., PV + battery) or other renewable options.
 
 ---
 
