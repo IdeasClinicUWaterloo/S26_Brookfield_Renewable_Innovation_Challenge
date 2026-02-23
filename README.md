@@ -1,1 +1,1 @@
-# S26_Brookfield_Renewable_Innovation_Challenge
+# Welcome to the 2026 Brookfield Renewable Innovation Challenge!
