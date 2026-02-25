@@ -1,5 +1,5 @@
 # Sustainable Energy
-The mission is to improve and find more sustainable energy sources in a worldwide effort to help counter the negative effects of global warming such as climate change, loss of natural habitats, decay of the ozone layer, and many more. As various institutions look towards more sustainable and renewable sources of energy due to the fear of non-renewable energy sources becoming scarcer and in turn more expensive to use. 
+The shift toward sustainable energy is critical to combating climate change, preserving natural habitats, and protecting the ozone layer. As non-renewable resources become scarcer and more expensive, institutions must lead the way in adopting cleaner alternatives.
 
 Campus power usage has been rising continuously. It is important to both reduce this growth and find cleaner sources of energy. The University of Waterloo aims to further advance objective 2 of UW’s sustainability goals which is to Implement cost-effective and practical strategies to reduce or minimize growth in energy use on campus. 
 
@@ -30,7 +30,7 @@ Teams may present their solutions in a variety of formats, including but not lim
 - [Machine Learning Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/Machine_Learning/Getting_Started_with_Machine_Learning.md)
 
 ## Datasets
-The following datasets are provided inside the data folder and may be useful for sustainability studies.
+The following datasets, covering the years 2015–2024, are provided in the data folder and may be useful for sustainability studies.
 
 ### Academic Calendar
 This dataset contains daily academic calendar indicators used to model campus occupancy and energy demand patterns.
@@ -45,15 +45,23 @@ This dataset contains daily academic calendar indicators used to model campus oc
 
 ### Electricity Consumption Monthly
 This dataset provides monthly electricity consumption for the following campus buildings:
+- School of Architecture (ARC)
+- Bauer Warehouse (BAU)
 - Columbia Icefield (CIF)
+- Columbia Lake Village South (CLV)
+- Columbia Greenhouses (COG)
+- Central Services Building (CSB)
+- Digital Media Stratford (DMS)
 - East Campus 1 (EC1)
 - East Campus 2 (EC2)
 - East Campus 3 (EC3)
 - East Campus 4 (EC4)
 - East Campus 5 (EC5)
 - East Campus Hall (ECH)
+- General Services Complex (GC)
 - Research Advancement Centre 2 (RA2)
 - Research Advancement Centre (RAC)
+- Toby Jenkins Applied Health Research Building (TJB)
 - UW Place (UWP)
 
 The data may represent meter level electricity consumption rather than strictly whole building usage.
@@ -63,7 +71,7 @@ The data may represent meter level electricity consumption rather than strictly 
 | Start Date | First day of the month for the consumption record (YYYY-MM-DD) |
 | End Date | Last day of the month for the consumption record (YYYY-MM-DD) |
 | Building Code | Identifier for the building (e.g., CIF, EC1, RA2) |
-| Consumption (kWh) | Total electricity consumption in kwh |
+| Consumption | Total electricity consumption in kwh |
 
 ### Eric D. Soulis Weather Station
 This dataset contains hourly weather observations from the Eric D. Soulis Weather Station.
