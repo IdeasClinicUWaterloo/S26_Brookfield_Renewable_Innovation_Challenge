@@ -62,6 +62,10 @@ void loop() {
     // Read Sensors
     lightValue = analogRead(light_pin);
     int uv_val = analogRead(uv_pin);
+    Serial.println(uv_val);
+    /*float voltage = (uv_val * 5.0) / 1024.0;
+    float intensity = 307.0 * voltage;
+    uvIndex = (uv_val*1000/4.3-83)/21;*/
     float voltage = (uv_val * 5.0) / 1024.0;
     float intensity = 307.0 * voltage;
     uvIndex = intensity / 200.0;
