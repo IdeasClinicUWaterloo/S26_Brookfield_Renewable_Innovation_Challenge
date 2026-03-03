@@ -1,5 +1,5 @@
 # Sustainable Energy
-The shift toward sustainable energy is critical to combating climate change, preserving natural habitats, and protecting the ozone layer. As non-renewable resources become scarcer and more expensive, institutions must lead the way in adopting cleaner alternatives.
+The shift toward sustainable energy is critical to combating climate change, reducing environmental degradation, and decreasing reliance on finite resources. As non-renewable fuels become scarcer and more expensive, institutions must lead the way in adopting cleaner and more sustainable alternatives.
 
 Campus power usage has been rising continuously. It is important to both reduce this growth and find cleaner sources of energy. The University of Waterloo aims to further advance objective 2 of UW’s sustainability goals which is to Implement cost-effective and practical strategies to reduce or minimize growth in energy use on campus. 
 
