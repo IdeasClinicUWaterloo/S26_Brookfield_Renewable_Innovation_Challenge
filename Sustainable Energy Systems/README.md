@@ -1,12 +1,12 @@
 # Sustainable Energy
-The shift toward sustainable energy is critical to combating climate change, reducing environmental degradation, and decreasing reliance on finite resources. As non-renewable fuels become scarcer and more expensive, institutions must lead the way in adopting cleaner and more sustainable alternatives.
+Around the world, institutions are working to transition toward more sustainable energy systems in response to the growing impacts of climate change, habitat loss, and resource depletion. As non-renewable energy sources become increasingly scarce and costly, the urgency to adopt cleaner, more reliable alternatives continues to grow. Universities, as centres of research and innovation, play a critical role in leading this transition. 
 
-Campus power usage has been rising continuously. It is important to both reduce this growth and find cleaner sources of energy. The University of Waterloo aims to further advance objective 2 of UW’s sustainability goals which is to Implement cost-effective and practical strategies to reduce or minimize growth in energy use on campus. 
+University campuses rely on a range of energy sources—including electricity, natural gas, and other fossil fuels—to power lighting, heating and cooling systems, laboratories, computing infrastructure, and daily operations. At the University of Waterloo, campus energy consumption has steadily increased alongside expansion and rising demand. To align with institutional sustainability commitments, the university seeks to advance its goal of implementing cost-effective and practical strategies to reduce or minimize growth in campus energy use while transitioning to cleaner energy sources. 
 
 ## The Challenge 
-Develop a feasible strategy to improve the sustainability of heating and electricity systems at the University of Waterloo. Teams will analyze how campus energy use varies with weather, and assess opportunities to integrate renewable energy sources such as geothermal and solar. The challenge evaluates how these systems can reduce emissions, manage peak demand, and improve energy efficiency within existing campus infrastructure. Teams must also consider cost, implementation timelines, and operational constraints when proposing solutions. 
+Develop a feasible strategy to improve the sustainability of energy systems at the University of Waterloo. Teams will analyze how campus energy use varies with weather and assess opportunities to integrate renewable energy sources such as geothermal or solar. The challenge evaluates how these systems can reduce emissions, manage peak demand, and improve energy efficiency within existing campus infrastructure.  
 
-Teams may present their solutions in a variety of formats, including but not limited to slide presentations, interactive websites/dashboards, physical prototypes, or simulations. 
+You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges.  
 
 ## Potential Solutions
 | Solution | Description | Resources |
@@ -14,7 +14,7 @@ Teams may present their solutions in a variety of formats, including but not lim
 | **Energy Forecasting & Load Prediction** | Build models to predict campus electricity and heating demand based on weather, academic calendar, and historical usage. | <ul><li>Historical energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Dashboard frameworks (Plotly Dash, Streamlit, or HTML/CSS/JS)</li></ul> |
 | **Solar PV Potential Analysis** | Assess the technical and economic feasibility of installing solar PV on campus rooftops, parking lots, or open land. | <ul><li>Map of Shade</li><li>PVWatts / pvlib / PyPSA</li><li>System Advisor Model</li><li>Site suitability mapping (ArcGIS Pro or QGIS)</li></ul> |
 | **Geothermal & Alternative Heating** | Evaluate the potential for ground-source heat pumps or other renewable heating/cooling technologies to replace or supplement the existing district energy system. | <ul><li>Geothermal infrastructure tour</li><li>Weather data</li><li>GHEDesigner / FEFLOW</li><li>Historical energy consumption data</li></ul> |
-| **Energy Scavenging** | Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs. | <ul><li>Facility infrastructure information</li><li>Historical energy consumption data</li><li>Case studies on waste heat recovery</li><li>Thermodynamic analysis tools (Python libraries or Engineering Equation Solver)</li></ul> |
+| **Energy Scavenging** | Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs. | <ul><li>Facility infrastructure information</li><li>Historical energy consumption data</li><li>Case studies on waste heat recovery</li><li>Thermodynamic analysis tools</li></ul> |
 
 ## Resources
 - [University of Waterloo Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
