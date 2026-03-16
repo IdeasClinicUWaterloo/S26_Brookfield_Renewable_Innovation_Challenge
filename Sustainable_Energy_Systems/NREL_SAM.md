@@ -114,6 +114,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
    In the new row that appears:
    - **Max. Usage**: `1e+38`
    - **Buy ($/kWh)**: `0.145`
+
    Locate the **Weekday** and **Weekend** schedule matrices (grids of hours vs. months).  
    - Click and drag to select all cells in the **Weekday** matrix, type `1`, and press Enter.  
    - Repeat for the **Weekend** matrix.
@@ -121,6 +122,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
    In the new row that appears:
    - **Peak (kW)**: `1e+38`
    - **Charge ($/kW)**: `11.68`
+   
    Locate the **Weekday** and **Weekend** schedule matrices (grids of hours vs. months).  
    - Click and drag to select all cells in the **Weekday** matrix, type `1`, and press Enter.  
    - Repeat for the **Weekend** matrix.

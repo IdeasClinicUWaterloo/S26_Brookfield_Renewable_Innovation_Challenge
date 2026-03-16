@@ -1,6 +1,5 @@
 # Welcome to the 2026 Brookfield Renewable Innovation Challenge!
 
-# Health Innovation Challenge:​ Exercise as a Healthcare Tool for Older Adults​
 Congratulations! Your team has been invited to develop innovative solutions for reducing the environmental footprint of campus operations and addressing climate change.
 
 As global temperatures rise and natural resources become increasingly limited, the need for effective climate mitigation and adaptation strategies has never been more urgent. Universities play an important role in demonstrating innovative, scalable sustainability solutions that reduce environmental impact while strengthening resilience to climate-related risks.
@@ -33,7 +32,7 @@ For more information and a step-by-step guide on how to implement various tools 
 
 ### Challenge
 
-Design a system that integrates renewable energy sources to improve campus sustainability. For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Energy Systems Folder](./Sustainable Energy Systems).
+Design a system that integrates renewable energy sources to improve campus sustainability. For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Energy Systems Folder](./Sustainable_Energy_Systems).
 
 ---
 
@@ -43,7 +42,7 @@ Design a system that integrates renewable energy sources to improve campus susta
 
 ### Challenge
 
-Develop a solution that improves transportation efficiency and reduces fossil‑fuel use on campus. For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Transportation Systems](./Sustainable Transportation Systems).
+Develop a solution that improves transportation efficiency and reduces fossil‑fuel use on campus. For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Transportation Systems](./Sustainable_Transportation_Systems).
 
 ---
 
