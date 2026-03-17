@@ -1,12 +1,12 @@
-# Welcome to the 2026 Brookfield Renewable Innovation Challenge!
+# Welcome to the 2026 Brookfield Renewable Innovation Challenge!  
 
-Congratulations! Your team has been invited to develop innovative solutions for reducing the environmental footprint of campus operations and addressing climate change.
+Congratulations! Your team has been invited to tackle a bold mission: designing innovative solutions to reduce the environmental footprint of campus operations and fight climate change.
 
-As global temperatures rise and natural resources become increasingly limited, the need for effective climate mitigation and adaptation strategies has never been more urgent. Universities play an important role in demonstrating innovative, scalable sustainability solutions that reduce environmental impact while strengthening resilience to climate-related risks.
+As global temperatures rise and resources become scarcer, universities are leading the way with scalable, real-world sustainability solutions that cut emissions and strengthen resilience to climate impacts.
 
-Brookfield Renewable operates one of the world’s largest publicly traded platforms for renewable power and decarbonization solutions. Their diversified portfolio includes hydroelectric, wind, solar, distributed energy, and other sustainable technologies deployed across five continents. As a global leader in clean energy innovation, Brookfield Renewable actively supports initiatives that accelerate the transition toward resilient, low-carbon communities.
+Brookfield Renewable, a global leader in clean energy, operates one of the world’s largest publicly traded platforms for renewable power and decarbonization solutions. From hydroelectric to wind, solar, and distributed energy, their projects span five continents, driving the transition to low-carbon, resilient communities.  
 
-The University of Waterloo is seeking transformative, campus-wide solutions that reduce greenhouse gas emissions while strengthening resilience to climate impacts such as extreme heat, severe storms, flooding, and power disruptions.
+Now it's your turn to make a difference. The University of Waterloo is seeking transformative, campus-wide solutions that achieve deep reductions in greenhouse gas emissions while enhancing resilience to climate change impacts such as extreme heat, storms, flooding, and power outages.  
 
 ## Your Mission
 
@@ -28,9 +28,9 @@ The Building Performance subfolder includes resources to utilize an environmenta
 
 ---
 
-## 🏘 Sustainable Energy Systems
+## ⚡ Sustainable Energy Systems
 
-
+Universities are shifting toward sustainable energy as non-renewable resources decline and environmental pressures rise. The University of Waterloo aims to balance growing energy demand with cleaner alternatives to meet its sustainability commitments.
 
 ### Challenge
 
@@ -40,7 +40,7 @@ Design a system that integrates renewable energy sources to improve campus susta
 
 ## 🚗 Sustainable Transportation Systems  
 
-
+The University of Waterloo aims to cut fossil-fuel use and promote cleaner vehicles on campus. Innovative solutions are needed to support low-emission commuting, improve on-campus mobility, and enhance the overall campus experience.
 
 ### Challenge
 
@@ -49,3 +49,8 @@ Develop a solution that improves transportation efficiency and reduces fossil‑
 ---
 
 ## General Resources
+- [University of Waterloo Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
+- [Sustainability home](https://uwaterloo.ca/sustainability/)
+- Heliodons
+- [Google AI Studio for Application Prototyping](https://ai.google/studio)
+- Enroll in [GitHub Education](https://education.github.com/pack) with your UW Student ID to access [Copilot](https://github.com/features/copilot). Copilot is an AI-powered coding and chat assistant available in Visual Studio Code.
