@@ -9,3 +9,21 @@ Your goal is to develop practical solutions that reduce vehicle emissions and fo
 You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
 ## Potential Solutions
+| Solution | Description | Resources |
+|:---------|:------------|:----------|
+| **Carpooling Platform** | Develop a system that matches students and staff with similar commuting routes and schedules (e.g., daily commuting or weekend trips home). | <ul><li>Web/mobile app development</li><li>Route optimization libraries (OSRM, NetworkX)</li><li>Google Maps API</li><li>Integration with campus authentication</li></ul> |
+| **Public Transit Integration (GRT / ION)** | Analyze ridership patterns and identify opportunities to improve integration between campus travel demand and public transit. | <ul><li>GRT ridership data</li><li>GIS mapping (ArcGIS, QGIS)</li><li>Transit demand modeling</li><li>Interactive dashboards (Tableau, Power BI, Dash)</li></ul> |
+| **Autonomous Electric Campus Shuttle** | Design an autonomous electric shuttle operating on fixed campus routes. | <ul><li>Campus route maps</li><li>Robotic navigation tools</li><li>Vehicle dynamics simulation (CarSim, SUMO, PresScan)</li></ul> |
+| **On-Demand Robo Taxi System** | Develop software that dynamically routes shared vehicles based on real-time ride requests. | <ul><li>Smart route planning applications template</li><li>Waterloo statistics of student residence clusters</li><li>Simulation platforms (MATSim / SUMO)</li></ul> |
+| **Electric Bike / Scooter Sharing** | Automated bike-sharing system that allows students to rent electric bikes from campus stations and return them the following day. | <ul><li>IoT hardware for bike locks & stations</li><li>Mobile app development (React Native, Flutter)</li><li>Interactive dashboards (Tableau, Power BI, Dash)</li><li>Payment gateway integration (Stripe, PayPal)</li></ul> |
+
+## Resources
+- [Transportation data | Sustainability | University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/transportation-data)
+- [Sustainable Transportation – Cycling](https://uwaterloo.ca/sustainable-transportation/getting-to-campus/cycling)
+- [Sustainable Transportation Plan](https://uwaterloo.ca/sustainable-transportation/getting-to-campus/sustainable-transportation-plan)
+- [GRT Bus Route Map & Schedule](https://www.grt.ca/en/schedules-maps/schedules.aspx)
+- [GRT Business Plan for Transportation Development](https://www.grt.ca/en/about-grt/grt-business-plan.aspx)
+- [UW Campus Map](https://uwaterloo.ca/map/)
+- [Figma Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/UI_Design/Getting_Started_with_Figma.md)
+- [Ultralytics YOLOv8](https://docs.ultralytics.com/models/yolov8/)
+- [Roboflow Universe](https://universe.roboflow.com/)
