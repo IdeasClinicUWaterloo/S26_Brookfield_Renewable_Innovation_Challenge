@@ -22,7 +22,9 @@ Your team is tasked with developing actionable strategies that address key emiss
 
 ### Challenge
 
-For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Building Performance Folder](./Building_Performance).
+Propose a building performance retrofit strategy that reduces the energy required to maintain its operation. Your solution can be presented as a project pitch, a prototype of your new installation, or anything that aids your presentation. For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Building Performance Folder](./Building_Performance).
+
+The Building Performance subfolder includes resources to utilize an environmental sensor package. Feel free to check out the code for your covenience, and utilize the sensor data to aid your ideation and design. 
 
 ---
 
