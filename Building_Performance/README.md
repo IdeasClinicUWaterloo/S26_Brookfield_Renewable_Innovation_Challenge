@@ -6,20 +6,30 @@ Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in 
 ## 📌 Project Overview
 Choose one building at UW (e.g. MC, DWE or RCH) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage.  
 
-The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
+Check out the case study document for some inspiration on potential solutions. The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
 
 
+## 💡 How to use this source code
+An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. 
+To switch sensor to display: hold the until screen changes, then release. 
 
-## 💡 Proposed Solution: "The Adaptive Skin"
+Below are the current environmental data provided: 
+- ambient temperature
+- air humidity
+- ambient light (output range: 0-800, brighter light = larger output)
+- UV index
 
-### 1. Active Mechatronic Shading
-To mitigate summer heat gain, external louvers are controlled by an **ESP32/Arduino** system. 
-* **Sensor Logic:** Lux sensors measure solar intensity; if thresholds are exceeded, louvers auto-shade to prevent "Greenhouse Effect" heating.
-* **Predictive Cooling:** The system uses real-time data to shade windows *before* the building reaches peak thermal mass.
+### Setup: 
+1. download Arduino IDE via :https://docs.arduino.cc/software/ide/
+2. navigate to the src folder, copy and paste main.cpp into a new Arduino project
+3. [add specifics of library installation]
+4.  click upload (right-pointing arrow) on the IDE to run the code on the sensor package
 
-### 2. Thermal Retention Retrofit
-* **Aerogel Insulation:** Retrofitting interior-facing exterior walls with thin-profile insulation to maximize R-value without losing classroom space.
-* **High-Traffic Air Curtains:** Installing sensors at main DWE entrances to activate air curtains, preventing conditioned air escape during class changeovers.
+## Additional Resources: 
+Several additional sensor modules are provided if you need more sensor measurements to support your project. Please don't hesitate to reach out to the suppor team if there's any troubles during sensor setup. 
+### Sensors and resources
+- general resource: a comprehensive introduction to sensors offered in the kit https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/
+- [some more sensors and specific links here]
 
 ---
 
