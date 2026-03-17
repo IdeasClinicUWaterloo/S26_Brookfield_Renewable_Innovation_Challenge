@@ -16,7 +16,7 @@ Your team is tasked with developing actionable strategies that address key emiss
 
 ## Sub-Problems
 
-## Building Performance
+## 🏘 Building Performance
 
 
 
@@ -28,7 +28,7 @@ The Building Performance subfolder includes resources to utilize an environmenta
 
 ---
 
-## Sustainable Energy Systems
+## 🏘 Sustainable Energy Systems
 
 
 
@@ -38,7 +38,7 @@ Design a system that integrates renewable energy sources to improve campus susta
 
 ---
 
-## Sustainable Transportation Systems  
+## 🚗 Sustainable Transportation Systems  
 
 
 
