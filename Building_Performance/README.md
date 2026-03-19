@@ -22,15 +22,16 @@ Below are the current environmental data provided:
 ### Setup: 
 1. download Arduino IDE via :https://docs.arduino.cc/software/ide/
 2. navigate to the src folder, copy and paste main.cpp into a new Arduino project
-3. use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO
-4. download zip of temperature&humidity sensor here: https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor/tree/master. Navigate to Sketch -> include library -> add .zip library, select the zip that was downloaded and confirm.
-5.  click upload (right-pointing arrow) on the IDE to run the code on the sensor package
+3. use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO， Grove Temperature And Humidity Sensor
+    - make sure each libraries are at the newest version. You can select versions from the dropdown menu below each library
+4.  click upload (right-pointing arrow) on the IDE to run the code on the sensor package
+
 
 ## Additional Resources: 
 Several additional sensor modules are provided if you need more sensor measurements to support your project. Please don't hesitate to reach out to the suppor team if there's any troubles during sensor setup. 
 ### Sensors and resources
 - general resource: a comprehensive introduction to sensors offered in the kit https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/
-- [some more sensors and specific links here]
+- 
 
 ---
 
