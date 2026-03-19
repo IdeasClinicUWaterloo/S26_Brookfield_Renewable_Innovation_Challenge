@@ -10,7 +10,7 @@ Check out the case study document for some inspiration on potential solutions. T
 
 
 ## 💡 How to use this source code
-An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. 
+An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to collect data to support building your solution, or you can modify it to be a part of your solution! 
 To switch sensor to display: hold the until screen changes, then release. 
 
 Below are the current environmental data provided: 
@@ -20,18 +20,20 @@ Below are the current environmental data provided:
 - UV index
 
 ### Setup: 
-1. download Arduino IDE via :https://docs.arduino.cc/software/ide/
-2. navigate to the src folder, copy and paste main.cpp into a new Arduino project
-3. use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO， Grove Temperature And Humidity Sensor
-    - make sure each libraries are at the newest version. You can select versions from the dropdown menu below each library
-4.  click upload (right-pointing arrow) on the IDE to run the code on the sensor package
+1. Download Arduino IDE via:https://docs.arduino.cc/software/ide/
+2. Navigate to the src folder, copy and paste main.cpp into a new Arduino project
+3. Use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO， Grove Temperature And Humidity Sensor
+    - make sure each library is at the newest version. You can select versions from the dropdown menu below each library
+4. Click upload (right-pointing arrow) on the IDE to run the code on the sensor package
 
 
 ## Additional Resources: 
 Several additional sensor modules are provided if you need more sensor measurements to support your project. Please don't hesitate to reach out to the suppor team if there's any troubles during sensor setup. 
 ### Sensors and resources
 - general resource: a comprehensive introduction to sensors offered in the kit https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/
-- 
+- electric current sensor: https://wiki.seeedstudio.com/Grove-Electricity_Sensor/
+- barometer sensor: https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/
+       - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
 
 ---
 
