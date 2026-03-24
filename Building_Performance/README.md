@@ -8,6 +8,18 @@ Choose one building at UW (e.g. MC, DWE or RCH) and propose a building performan
 
 Check out the case study document for some inspiration on potential solutions. The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
 
+## Potential Solution
+## 🏗️ Sustainable Building Solutions & Resources
+
+| Potential Solutions | 📝 Description | 🛠️ Technical Resources |
+| :--- | :--- | :--- |
+| **Retrofitted plans to increase thermal retention** | Improvements to building insulation or designs of entrance/exit doorways to minimize heat loss. | • FLIR camera (heat loss analysis)<br>• Environmental quality logger<br>• Energy consumption database |
+| **Lighting energy optimization** | Reducing consumption via improved scheduling, automation, or retrofitting with efficient LED systems. | • Light sensors (brightness measurement)<br>• Microcontrollers + sensors for prototyping |
+| **Heating efficiency improvements** | Investigating current heating methods and exploring more efficient, low-carbon alternatives. | • Microcontroller-based sensor package |
+| **Shading infrastructure** | Automated shading for glass windows to mitigate summer heat gain and reduce cooling costs. | • Microcontroller + light sensors<br>• Craft papers for physical prototyping |
+| **Passive building improvements** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + wood planks for scale models |
+| **New infrastructure recommendations** | Proposals for new builds with strict protocols to ensure minimal carbon emission increases. | • Building modelling tools<br>• Crafting equipment |
+
 
 ## 💡 How to use this source code
 An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to collect data to support building your solution, or you can modify it to be a part of your solution! 
