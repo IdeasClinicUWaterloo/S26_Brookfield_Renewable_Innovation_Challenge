@@ -44,7 +44,7 @@ The University of Waterloo aims to cut fossil-fuel use and promote cleaner vehic
 
 ### Challenge
 
-Develop a solution that improves transportation efficiency and reduces fossil‑fuel use in relation to activities on campus (driving within campus, communiting to and from campus, etc.) For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Transportation Systems](./Sustainable_Transportation_Systems).
+Develop a solution that improves transportation efficiency and reduces fossil‑fuel use in relation to activities on campus (driving within campus, communiting to and from campus, etc.) For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Transportation Systems Folder](./Sustainable_Transportation_Systems).
 
 ---
 
