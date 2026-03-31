@@ -26,6 +26,7 @@ You need to communicate the details of your design to the judges. Your solution 
 - [Pvlib python](https://github.com/pvlib/pvlib-python)
 - [PyPSA - Python for Power System Analysis](https://github.com/PyPSA/PyPSA)
 - [System Advisor Model](https://sam.nlr.gov/)
+- [The Building Data Genome 2 Dataset](https://github.com/buds-lab/building-data-genome-project-2/tree/master?tab=readme-ov-file)
 - [Machine Learning Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/Machine_Learning/Getting_Started_with_Machine_Learning.md)
 
 ## Datasets
