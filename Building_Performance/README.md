@@ -4,9 +4,11 @@ Many buildings in the University of Waterloo campus were built in the 1950s –1
 Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings are designed at a time where energy efficiency is not a priority concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adopting to a climate that has more hot days and more freezing days.  
 
 ## 📌 Project Overview
-Choose one building at UW (Any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage.  Your modification can not only focus on reducing the energy consumed by the building, but can also focus on human accessibility in the building, as well as improving environmental interactions between the building and nature around it.
-Your solution does not have to cover an entire building. You can choose to focus on a specific floor or even a specific space in that building.
-While there are no strict budget and timeline requirements, consider whether your solution's impact can justify your project's spending and time. Also to consider why your solution is benefitial to campus beyond just saving energy usage and carbon emissions.
+Choose one building at UW (Any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage. 
+
+Your modification can not only focus on reducing the energy consumed by the building, but can also focus on human accessibility in the building, as well as improving environmental interactions between the building and nature around it.Your solution does not have to cover an entire building. You can choose to focus on a specific floor or even a specific space in that building.
+
+While there are no strict budget and timeline requirements, consider whether your solution's impact can justify your project's spending and time. Also, consider why your solution is beneficial to the campus beyond saving energy usage and carbon emissions.
 
  The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
 
@@ -57,7 +59,8 @@ A thermal camera is provided as part of the challenge resource to help you obtai
        - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
 ### General Information
 - building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
-- 
+- Energy Usage Dataset: Check datasets in Sustainable Energy Systems folder
+- Environmental Office's [Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0) for Inspiration
 - 
 
 
