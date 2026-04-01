@@ -10,7 +10,7 @@ Now it's your turn to make a difference. The University of Waterloo is seeking
 
 ## Your Mission
 
-Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. As part of this challenge, you will have access to a **hypothetical $10 million investment fund**, enabling you to propose solutions that are financially realistic within a meaningful implementation budget and timeline. Proposed solutions should consider technical feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a decarbonized future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas, to deliver a compelling, well-supported solution by the end of the weekend!  
+Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that creates an impact on campus within a reasonable timeline and budget. Proposed solutions should consider technical feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a decarbonized future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas, to deliver a compelling, well-supported solution by the end of the weekend!  
 
 ---
 
