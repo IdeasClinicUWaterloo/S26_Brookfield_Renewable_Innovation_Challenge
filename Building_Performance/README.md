@@ -4,9 +4,11 @@ Many buildings in the University of Waterloo campus were built in the 1950s –1
 Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings are designed at a time where energy efficiency is not a priority concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adopting to a climate that has more hot days and more freezing days.  
 
 ## 📌 Project Overview
-Choose one building at UW (e.g. MC, DWE or RCH) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage.  
+Choose one building at UW (Any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage.  Your modification can not only focus on reducing the energy consumed by the building, but can also focus on human accessibility in the building, as well as improving environmental interactions between the building and nature around it.
+Your solution does not have to cover an entire building. You can choose to focus on a specific floor or even a specific space in that building.
+While there are no strict budget and timeline requirements, consider whether your solution's impact can justify your project's spending and time. Also to consider why your solution is benefitial to campus beyond just saving energy usage and carbon emissions.
 
-Check out the case study document for some inspiration on potential solutions. The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
+ The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
 
 ## Potential Solution
 ## 🏗️ Sustainable Building Solutions & Resources
@@ -18,7 +20,8 @@ Check out the case study document for some inspiration on potential solutions. T
 | **Heating efficiency improvements** | Investigating current heating methods and exploring more efficient, low-carbon alternatives. | • Microcontroller-based sensor package |
 | **Shading infrastructure** | Automated shading for glass windows to mitigate summer heat gain and reduce cooling costs. | • Microcontroller + light sensors<br>• Craft papers for physical prototyping |
 | **Passive building improvements** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + wood planks for scale models |
-| **New infrastructure recommendations** | Proposals for new builds with strict protocols to ensure minimal carbon emission increases. | • Building modelling tools<br>• Crafting equipment |
+| **Building Monitoring/Adaptation to Climate** | Use a system to adjust the building to a changing climate and a changing usage demand, or a system to monitor building usage/perforamnce | • Sensor packet<br>• AI prototyping tools for dashboards • Data analytics Models |
+| **New infrastructure recommendations** | Proposals for new builds with strict protocols to minimize carbon emissions. | • Building modelling tools<br>• Crafting equipment |
 
 
 ## 💡 How to use this source code
@@ -40,7 +43,7 @@ Below are the current environmental data provided:
 
 
 ## Additional Resources: 
-Several additional sensor modules are provided if you need more sensor measurements to support your project. Please don't hesitate to reach out to the suppor team if there's any troubles during sensor setup. 
+Several additional sensor modules are provided if you need more sensor measurements to support your project. Some potentially useful links are provided below. Please don't hesitate to reach out to the suppor team if there's any troubles during sensor setup. 
 ### FLIR One camera Instructions
 A thermal camera is provided as part of the challenge resource to help you obtain better thermal data around the building. 
 1. Download the Flir One app from your app store
@@ -52,6 +55,11 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - electric current sensor: https://wiki.seeedstudio.com/Grove-Electricity_Sensor/
 - barometer sensor: https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/
        - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
+### General Information
+- building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
+- 
+- 
+
 
 ---
 
