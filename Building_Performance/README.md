@@ -13,6 +13,8 @@ While there are no strict budget and timeline requirements, consider whether you
  The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
 
 ## Potential Solution
+We highly recommend you visit sites/buildings that you are interested in improving in person, and record/measure the site to understand what you are improving better. 
+
 ## 🏗️ Sustainable Building Solutions & Resources
 
 | Potential Solutions | 📝 Description | 🛠️ Technical Resources |
