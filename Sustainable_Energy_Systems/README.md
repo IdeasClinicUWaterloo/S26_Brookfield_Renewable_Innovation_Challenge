@@ -1,7 +1,7 @@
 # Sustainable Energy
 Around the world, institutions are working to transition toward more sustainable energy systems in response to the growing impacts of climate change, habitat loss, and resource depletion. As non-renewable energy sources become increasingly scarce and costly, the urgency to adopt cleaner, more reliable alternatives continues to grow. Universities, as centres of research and innovation, play a critical role in leading this transition.
 
-University campuses rely on a range of energy sources—including electricity, natural gas, and other fossil fuels—to power lighting, heating and cooling systems, laboratories, computing infrastructure, and daily operations. At the University of Waterloo, campus energy consumption has steadily increased alongside expansion and rising demand. To align with institutional sustainability commitments, the university seeks to advance its goal of implementing cost-effective and practical strategies to reduce or minimize growth in campus energy use while transitioning to cleaner energy sources.
+University campuses rely on a range of energy sources—including electricity, natural gas, and other fossil fuels—to power lighting, heating, and cooling systems, laboratories, computing infrastructure, and daily operations. At the University of Waterloo, campus energy consumption has steadily increased alongside expansion and rising demand. To align with institutional sustainability commitments, the university seeks to advance its goal of implementing cost-effective and practical strategies to reduce or minimize growth in campus energy use while transitioning to cleaner energy sources.
 
 ## The Challenge 
 Develop a feasible strategy to improve the sustainability of energy systems at the University of Waterloo. Teams will analyze how campus energy use varies with weather and assess opportunities to integrate renewable energy sources such as geothermal or solar. The challenge evaluates how these systems can reduce emissions, manage peak demand, and improve energy efficiency within existing campus infrastructure. 
@@ -71,7 +71,7 @@ The data may represent meter level electricity consumption rather than strictly 
 | Start Date | First day of the month for the consumption record (YYYY-MM-DD) |
 | End Date | Last day of the month for the consumption record (YYYY-MM-DD) |
 | Building Code | Identifier for the building (e.g., CIF, EC1, RA2) |
-| Consumption | Total electricity consumption in kwh |
+| Consumption | Total electricity consumption in kWh |
 
 ### Eric D. Soulis Weather Station
 This dataset contains hourly weather observations from the Eric D. Soulis Weather Station.
