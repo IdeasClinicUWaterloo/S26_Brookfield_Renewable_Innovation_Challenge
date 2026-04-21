@@ -20,7 +20,6 @@ You need to communicate the details of your design to the judges. Your solution 
 ## Resources
 - [Transportation data | Sustainability | University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/transportation-data)
 - [Sustainable Transportation – Cycling](https://uwaterloo.ca/sustainable-transportation/getting-to-campus/cycling)
-- [Sustainable Transportation Plan](https://uwaterloo.ca/sustainable-transportation/getting-to-campus/sustainable-transportation-plan)
 - [GRT Bus Route Map & Schedule](https://www.grt.ca/en/schedules-maps/schedules.aspx)
 - [GRT Business Plan for Transportation Development](https://www.grt.ca/en/about-grt/grt-business-plan.aspx)
 - [UW Campus Map](https://uwaterloo.ca/map/)
