@@ -63,8 +63,7 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
 - Energy Usage Dataset: Check datasets in Sustainable Energy Systems folder
 - Environmental Office's [Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0) for Inspiration
-- 
-
+- Resources on green buildings: [Net-Zero Energy Ready Buildings](https://www.efficiencycanada.org/building-codes/net-zero-energy-ready-buildings-in-canada/),[Zero Energy Buildings](https://www.wbdg.org/resources/net-zero-energy-buildings)
 
 ---
 
