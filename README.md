@@ -29,8 +29,6 @@ Your goal is to balance peak energy efficiency with long term adaptability, pres
 
 For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Building Performance Folder](./Building_Performance).
 
-The Building Performance subfolder includes resources to utilize an environmental sensor package. Feel free to check out the code for your convenience, and utilize the sensor data to aid your ideation and design. 
-
 ---
 
 ## ⚡ Sustainable Energy Systems
