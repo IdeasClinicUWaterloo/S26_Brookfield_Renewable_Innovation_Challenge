@@ -1,31 +1,52 @@
 # Building Performance Improvement Problem 🏢
 
-Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. 
-Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings are designed at a time where energy efficiency is not a priority concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adopting to a climate that has more hot days and more freezing days.  
+Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a priority concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adopting to a climate that has more hot days and more freezing days.  
 
-## 📌 Project Overview
-Choose one building at UW (Any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for student usage. 
+## 📌 Subproblem 1a: Improving Building Performance 
+Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a priority concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adopting to a climate that has more hot days and more freezing days.  
 
-Your modification can not only focus on reducing the energy consumed by the building, but can also focus on human accessibility in the building, as well as improving environmental interactions between the building and nature around it.Your solution does not have to cover an entire building. You can choose to focus on a specific floor or even a specific space in that building.
+## Challenge
+Choose one building at UW (any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operation. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for its intended usage. 
 
-While there are no strict budget and timeline requirements, consider whether your solution's impact can justify your project's spending and time. Also, consider why your solution is beneficial to the campus beyond saving energy usage and carbon emissions.
+Your modification should focus on reducing the energy consumed by the building but can also focus on other areas of improvement including human accessibility in the building or improving environmental interactions between the building and the surrounding environment. Your solution does not have to cover an entire building.  
 
- The presentation of your solution can include a pitch deck for your solution, a prototype of the new installation, or anything else that aids the demonstration.  
+While there are no strict budget requirements, consider whether your solution's impact can justify your project's spending. Also, consider why your solution is beneficial to the campus beyond saving energy usage and carbon emissions. 
+
+The presentation of your solution can include a pitch deck for your solution, a small physical prototype of the new installation, or anything else that aids the demonstration. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
+
+
+--
+## 📌 Subproblem 1b:
+As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
+
+Unlike older campus buildings constructed in the mid-to-late 20th century, new facilities have the opportunity to integrate high-performance systems from the ground up. However, designing a new building today presents its own challenges. It must anticipate a changing climate with more extreme heat and cold events, incorporate flexible learning environments, minimize operational carbon emissions, and remain adaptable for decades of evolving academic use. 
+
+New construction decisions—such as building orientation, envelope performance, structural systems, material selection, HVAC design, lighting strategies, and renewable energy integration—have long-term implications for energy use, occupant comfort, embodied carbon, and lifecycle costs. Early-stage design choices are critical to ensuring that the building operates efficiently while maintaining comfort, accessibility, and full functional capacity. 
+
+## Challenge: 
+As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
+
+Unlike older campus buildings constructed in the mid-to-late 20th century, new facilities have the opportunity to integrate high-performance systems from the ground up. However, designing a new building today presents its own challenges. It must anticipate a changing climate with more extreme heat and cold events, incorporate flexible learning environments, minimize operational carbon emissions, and remain adaptable for decades of evolving academic use. 
+
+New construction decisions—such as building orientation, envelope performance, structural systems, material selection, HVAC design, lighting strategies, and renewable energy integration—have long-term implications for energy use, occupant comfort, embodied carbon, and lifecycle costs. Early-stage design choices are critical to ensuring that the building operates efficiently while maintaining comfort, accessibility, and full functional capacity. 
+
 
 ## Potential Solution
-We highly recommend you visit sites/buildings that you are interested in improving in person, and record/measure the site to understand what you are improving better. 
+Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
 
-## 🏗️ Sustainable Building Solutions & Resources
+These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel appropriate. 
 
-| Potential Solutions | 📝 Description | 🛠️ Technical Resources |
+| Potential Solutions | Description | Technical Resources |
 | :--- | :--- | :--- |
-| **Retrofitted plans to increase thermal retention** | Improvements to building insulation or designs of entrance/exit doorways to minimize heat loss. | • FLIR camera (heat loss analysis)<br>• Environmental quality logger<br>• Energy consumption database |
-| **Lighting energy optimization** | Reducing consumption via improved scheduling, automation, or retrofitting with efficient LED systems. | • Light sensors (brightness measurement)<br>• Microcontrollers + sensors for prototyping |
-| **Heating efficiency improvements** | Investigating current heating methods and exploring more efficient, low-carbon alternatives. | • Microcontroller-based sensor package |
-| **Shading infrastructure** | Automated shading for glass windows to mitigate summer heat gain and reduce cooling costs. | • Microcontroller + light sensors<br>• Craft papers for physical prototyping |
-| **Passive building improvements** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + wood planks for scale models |
-| **Building Monitoring/Adaptation to Climate** | Use a system to adjust the building to a changing climate and a changing usage demand, or a system to monitor building usage/perforamnce | • Sensor packet<br>• AI prototyping tools for dashboards • Data analytics Models |
-| **New infrastructure recommendations** | Proposals for new builds with strict protocols to minimize carbon emissions. | • Building modelling tools<br>• Crafting equipment |
+| **Retrofitting plans to increase thermal retention of buildings** | Improvements to the building insulation, or designs of entrance/exit doorways. | • FLIR camera to examine building heat loss<br>• Environmental quality logger to log air quality<br>• Database on energy consumption for buildings |
+| **Improvement to energy use from lighting** | Energy consumed from lighting the building can be reduced through methods such as improved light scheduling/automation, or retrofitting with more efficient lighting system. | • Light sensor to measure brightness<br>• Microcontroller + sensors to prototype control systems |
+| **Improvement to energy use for heating** | Investigate how each building is heated and explore more efficient solutions. | • Microcontroller-based sensor package |
+| **Shading infrastructure** | Automated shading for glass windows to mitigate summer heat gain and reduce cooling costs. | • Microcontroller + light sensors<br>• Craft papers for prototyping |
+| **Passive improvements to buildings** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + wood planks for building models<br>• Heliodons for building evaluation |
+| **Building monitoring + adaptation to climate** | Use a system to adjust the building to a changing climate and a changing usage demand, or a system to monitor building usage/performance. | • Sensor packet<br>• AI prototyping tools for dashboards<br>• Data analytics Models |
+| **New infrastructure recommendation** | Proposal of a new building and a series of protocols for that building to ensure minimal increase of carbon emissions. | • Building modelling tools<br>• Crafting equipment |
+
+
 
 
 ## 💡 How to use this source code
@@ -63,7 +84,8 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
 - Energy Usage Dataset: Check datasets in Sustainable Energy Systems folder
 - Environmental Office's [Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0) for Inspiration
-- Resources on green buildings: [Net-Zero Energy Ready Buildings](https://www.efficiencycanada.org/building-codes/net-zero-energy-ready-buildings-in-canada/),[Zero Energy Buildings](https://www.wbdg.org/resources/net-zero-energy-buildings)
+- Field trips (e.g. campus district energy system, EV3 Solar PV array and other LEED attributes, etc)
+- [Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
 
 ---
 
