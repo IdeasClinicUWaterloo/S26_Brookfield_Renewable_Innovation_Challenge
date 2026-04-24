@@ -61,6 +61,6 @@ For more information and a step-by-step guide on how to implement various tools 
 ## General Resources
 - [University of Waterloo Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
 - [Sustainability home](https://uwaterloo.ca/sustainability/)
-- Heliodons
+- Heliodons for architectual model evaluation (speake to co-op student)
 - [Google AI Studio for Application Prototyping](https://ai.google/studio)
 - Enroll in [GitHub Education](https://education.github.com/pack) with your UW Student ID to access [Copilot](https://github.com/features/copilot). Copilot is an AI-powered coding and chat assistant available in Visual Studio Code.
