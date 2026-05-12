@@ -78,7 +78,7 @@ A thermal camera is provided as part of the challenge resource to help you obtai
        - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
 ### General Information
 - building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
-- Energy Usage Dataset: Check datasets in Sustainable Energy Systems folder
+- Energy Usage Dataset: [Energy data from the University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
 - Environmental Office's [Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0) for Inspiration
 - Field trips (e.g. campus district energy system, EV3 Solar PV array and other LEED attributes, etc)
 - [Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
