@@ -70,7 +70,7 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 1. Download the Flir One app from your app store
 2. Launch the application, then plug the camera into your phone's charging port
 3. Press the power button at the bottom of the camera and wait. The module should first display an orange light, then flashing green when functioning
-4. If the module has no response while powering or connecting, use the charging wire inside the case the charge the module, then retry.
+4. If the module has no response while powering or connecting, use the charging wire inside the case to charge the module, then retry.
 ### Sensors and resources
 - general resource: a comprehensive introduction to sensors offered in the kit https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/
 - electric current sensor: https://wiki.seeedstudio.com/Grove-Electricity_Sensor/
