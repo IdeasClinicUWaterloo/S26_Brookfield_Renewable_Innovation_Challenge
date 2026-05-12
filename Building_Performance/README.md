@@ -27,12 +27,12 @@ Your solution should also consider long-term adaptability and lifecycle performa
 
 You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
-## Potential Solution
+## Potential Solutions
 Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
 
 These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate. 
 
-| Potential Solutions | Description | Technical Resources |
+| Potential Solutions | Description | Resources |
 | :--- | :--- | :--- |
 | **Retrofitting plans to increase thermal retention of buildings** | Improvements to the building insulation, or designs of entrance/exit doorways. | • FLIR camera to examine building heat loss<br>• Environmental quality logger to log air quality<br>• Database on energy consumption for buildings |
 | **Improving energy usage due to lighting** | Energy consumed from lighting the building can be reduced through methods such as improved light scheduling/automation, or retrofitting with more efficient lighting system. | • Light sensor to measure brightness<br>• Microcontroller + sensors to prototype control systems |
