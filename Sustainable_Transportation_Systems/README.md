@@ -9,7 +9,9 @@ Your goal is to develop practical solutions that reduce vehicle emissions and fo
 You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges.
 
 ## Potential Solutions
-| Solution | Description | Resources |
+These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
+
+| Potential Solutions | Description | Resources |
 |:---------|:------------|:----------|
 | **Carpooling platform** | Develop a system that matches students and staff with similar commuting routes and schedules (e.g., daily commuting or weekend trips home). | <ul><li>Web/mobile app development</li><li>Route optimization libraries (OSRM, NetworkX)</li><li>Google Maps API</li><li>Integration with campus authentication</li></ul> |
 | **Public transit integration (GRT / ION)** | Analyze ridership patterns and identify opportunities to improve integration between campus travel demand and public transit. | <ul><li>GRT ridership data</li><li>GIS mapping (ArcGIS, QGIS)</li><li>Transit demand modeling</li><li>Interactive dashboards (Tableau, Power BI, Dash)</li></ul> |
