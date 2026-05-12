@@ -60,7 +60,7 @@ Below are the current environmental data provided:
 - UV index
 
 ### Setup: 
-1. Download Arduino IDE via:https://docs.arduino.cc/software/ide/
+1. Download Arduino IDE via: https://docs.arduino.cc/software/ide/
 2. Navigate to the src folder, copy and paste main.cpp into a new Arduino project
 3. Use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO， Grove Temperature And Humidity Sensor
     - make sure each library is at the newest version. You can select versions from the dropdown menu below each library
