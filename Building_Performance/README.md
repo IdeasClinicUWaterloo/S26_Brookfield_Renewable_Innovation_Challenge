@@ -1,5 +1,5 @@
 # Building Performance Improvement Problem 🏢
-The building performance improvement section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-existing building's performance and sub-problem 1b focuses on sustainable energy performance. Read more below for more detailed descriptions and challenges related to each sub-problem.
+The building performance improvement section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-existing building's performance and sub-problem 1b focuses on the next generation of sustainable building design. Read more below for more detailed descriptions and challenges related to each sub-problem.
 
 ## 📌 Sub-problem 1a: Improving Building Performance 
 Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a primary concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adapting to a climate that has more hot days and freezing nights. 
@@ -13,20 +13,19 @@ While there are no strict budget requirements, consider whether your solution's 
 
 The presentation of your solution can include a pitch deck for your solution, a small physical prototype of the new installation, or anything else that aids the demonstration. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
-## 📌 Sub-problem 1b: Sustainable Energy Performance 
+## 📌 Sub-problem 1b: Next Generation Sustainable Building Design
 As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
 
 Unlike older campus buildings constructed in the mid-to-late 20th century, new facilities have the opportunity to integrate high-performance systems from the ground up. However, designing a new building today presents its own challenges. It must anticipate a changing climate with more extreme heat and cold events, incorporate flexible learning environments, minimize operational carbon emissions, and remain adaptable for decades of evolving academic use. 
 
 New construction decisions—such as building orientation, envelope performance, structural systems, material selection, HVAC design, lighting strategies, and renewable energy integration—have long-term implications for energy use, occupant comfort, embodied carbon, and lifecycle costs. Early-stage design choices are critical to ensuring that the building operates efficiently while maintaining comfort, accessibility, and full functional capacity. 
 
-## Challenge: 
+## Challenge
 As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
 
 Unlike older campus buildings constructed in the mid-to-late 20th century, new facilities have the opportunity to integrate high-performance systems from the ground up. However, designing a new building today presents its own challenges. It must anticipate a changing climate with more extreme heat and cold events, incorporate flexible learning environments, minimize operational carbon emissions, and remain adaptable for decades of evolving academic use. 
 
 New construction decisions—such as building orientation, envelope performance, structural systems, material selection, HVAC design, lighting strategies, and renewable energy integration—have long-term implications for energy use, occupant comfort, embodied carbon, and lifecycle costs. Early-stage design choices are critical to ensuring that the building operates efficiently while maintaining comfort, accessibility, and full functional capacity. 
-
 
 ## Potential Solution
 Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
