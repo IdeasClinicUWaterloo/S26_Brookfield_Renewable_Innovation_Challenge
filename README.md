@@ -8,7 +8,7 @@ The University of Waterloo is seeking transformative, campus-wide solutions 
 
 ## Your Mission
 
-Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that can be deployed on campus in 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility and the project’s long-term contribution to decarbonizing campus.  
+Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that can be deployed on campus within 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility, and the project’s long-term contribution to decarbonizing campus.  
 
 Proposed solutions should consider technical and economic feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a decarbonized future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas —  to deliver a compelling, well-supported solution by the end of the weekend!  
 
