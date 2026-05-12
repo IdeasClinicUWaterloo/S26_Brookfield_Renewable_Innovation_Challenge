@@ -30,7 +30,7 @@ You need to communicate the details of your design to the judges. Your solution 
 ## Potential Solution
 Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
 
-These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel appropriate. 
+These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate. 
 
 | Potential Solutions | Description | Technical Resources |
 | :--- | :--- | :--- |
