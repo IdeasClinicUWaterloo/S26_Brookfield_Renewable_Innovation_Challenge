@@ -38,7 +38,7 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 | **Improving energy usage due to lighting** | Energy consumed from lighting the building can be reduced through methods such as improved light scheduling/automation, or retrofitting with more efficient lighting system. | • Light sensor to measure brightness<br>• Microcontroller + sensors to prototype control systems |
 | **Improving energy usage due to heating** | Investigate how each building is heated and explore more efficient solutions. | • Microcontroller-based sensor package |
 | **Shading infrastructure** | Automated shading for glass windows to mitigate summer heat gain and reduce cooling costs. | • Microcontroller + light sensors<br>• Craft papers for prototyping |
-| **Passive improvements to buildings** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + wood planks for building models<br>• Heliodons for building evaluation |
+| **Passive improvements to buildings** | Using natural elements (like plants) to shade buildings in summer or redirect snow in winter. | • Craft papers + cardboard for building models<br>• Heliodons for building evaluation |
 | **Building monitoring + adaptation to climate** | Use a system to adjust the building to a changing climate and usage demand, or create a system to monitor building usage/performance. | • Sensor packet<br>• AI prototyping tools for dashboards<br>• Data analytics Models |
 | **New infrastructure recommendation** | Proposal of a new building and a series of protocols for that building to ensure minimal increase of carbon emissions. | • Building modelling tools<br>• Crafting equipment |
 
