@@ -3,7 +3,7 @@ Efficient transportation systems are essential for modern campuses, yet traditio
 
 To support sustainability goals, the University of Waterloo aims to increase the adoption of electric and alternative-fuel vehicles. It also seeks to reduce fossil-fuel consumption in the campus fleet by 25% from a 2015 baseline. Achieving these goals requires innovative transportation solutions that support low‑emission commuting, improve "first and last mile" connectivity, and enable cleaner, more efficient movement around campus, ultimately reducing congestion, emissions, and dependence on fossil fuels while enhancing the campus experience.
 
-## The Challenge
+## Challenge
 Your goal is to develop practical solutions that reduce vehicle emissions and fossil-fuel use on campus. The solution should improve transportation efficiency for students, staff, and campus operations. Teams are encouraged to integrate with existing campus and municipal infrastructure where possible to provide measurable sustainability outcomes. Solutions may include software platforms, infrastructure proposals, optimization algorithms, or hardware prototypes.
 
 You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges.
