@@ -9,6 +9,8 @@ Develop a feasible strategy to improve the sustainability of energy systems at t
 You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
 ## Potential Solutions
+These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
+
 | Potential Solutions | Description | Resources |
 |:---------|:------------|:----------|
 | **Energy forecasting & load prediction** | Build models to predict campus electricity and heating demand based on weather, academic calendar, and historical usage. | <ul><li>Historical energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Dashboard frameworks (Plotly Dash, Streamlit, or HTML/CSS/JS)</li></ul> |
