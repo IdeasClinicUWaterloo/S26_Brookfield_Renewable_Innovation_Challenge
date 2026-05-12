@@ -77,7 +77,7 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - [barometer sensor](https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/)
        - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
 ### General Information
-- [UW Building Floor plan](https://uwaterloo.ca/plant-operations/floor-plans)
+- [UW Building Floor Plans](https://uwaterloo.ca/plant-operations/floor-plans)
 - [Energy data | Sustainability |  University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
 - [Environmental Office's Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0)
 - [LEED Attributes in EV3](https://uwaterloo.ca/environment/about/ev3-leedr-platinum-certified)
