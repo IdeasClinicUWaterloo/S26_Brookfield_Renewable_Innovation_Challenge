@@ -1,4 +1,4 @@
-# Building Performance Improvement Problem 🏘
+# Building Performance 🏘
 The building performance improvement section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-existing building's performance, while sub-problem 1b focuses on the next generation of sustainable building design. Read below for more detailed descriptions and challenges related to each sub-problem.
 
 ## 📌 Sub-problem 1a: Improving Building Performance 
