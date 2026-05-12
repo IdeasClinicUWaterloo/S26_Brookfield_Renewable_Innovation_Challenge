@@ -18,10 +18,10 @@ Proposed solutions should consider technical and economic feasibility, community
 
 ## 🏘 Building Performance
 
-### Challenge A:
+### Challenge A
 You are tasked with selecting a University of Waterloo building and proposing a retrofit strategy to significantly reduce its energy consumption and carbon footprint. Whether you’re upgrading an aging "classic" like MC or optimizing a newer facility like E7 for extreme weather, your solution must maintain occupant comfort and operational functionality. Beyond just saving energy, your proposal should consider cost-effectiveness, human accessibility, and broader campus benefits, culminating in a pitch or prototype for judging.
 
-### Challenge B:
+### Challenge B
 This challenge requires you to design a new academic building at the University of Waterloo that serves as a model for low-carbon construction and climate resilience. Unlike a retrofit, you will start from the basics like site selection, material choice to reduce embodied carbon, and passive design to ensure the building can handle future weather extremes while supporting modern campus life. 
 
 Your goal is to balance peak energy efficiency with long term adaptability, presenting your vision through architectural models, simulations, or detailed design drawings.
