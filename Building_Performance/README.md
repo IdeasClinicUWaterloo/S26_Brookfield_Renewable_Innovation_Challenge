@@ -47,7 +47,7 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 
 ## 💡 How to use this source code
 An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to collect data to support building your solution, or you can modify it to be a part of your solution! 
-To switch sensor to display: hold the until screen changes, then release. 
+To switch sensor to display: hold until screen changes, then release. 
 
 Below are the current environmental data provided: 
 - ambient temperature
