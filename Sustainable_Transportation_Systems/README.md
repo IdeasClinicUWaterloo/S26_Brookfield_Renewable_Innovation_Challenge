@@ -21,7 +21,7 @@ You need to communicate the details of your design to the judges. Your solution 
 - [Transportation data | Sustainability | University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/transportation-data)
 - [Sustainable Transportation – Cycling](https://uwaterloo.ca/sustainable-transportation/getting-to-campus/cycling)
 - [GRT Bus Route Map & Schedule](https://www.grt.ca/en/schedules-maps/schedules.aspx)
-- [GRT Business Plan for Transportation Development](https://www.grt.ca/en/about-grt/grt-business-plan.aspx)
+- [GRT Business Plan for Transportation Development](https://www.grt.ca/about-grt/plans-and-projects/grt-business-plan/)
 - [UW Campus Map](https://uwaterloo.ca/map/)
 - [Figma Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/UI_Design/Getting_Started_with_Figma.md)
 - [Ultralytics YOLOv8](https://docs.ultralytics.com/models/yolov8/)
