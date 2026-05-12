@@ -30,7 +30,7 @@ You need to communicate the details of your design to the judges. Your solution 
 - [Machine Learning Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/Machine_Learning/Getting_Started_with_Machine_Learning.md)
 
 ## Datasets
-The following datasets, covering the years 2015–2024, are provided in the data folder and may be useful for sustainability studies.
+The following datasets, covering the years 2015–2024, are provided in the [data folder](https://github.com/IdeasClinicUWaterloo/S26_Brookfield_Renewable_Innovation_Challenge/tree/main/Sustainable_Energy_Systems/data) and may be useful for sustainability studies.
 
 ### Academic Calendar
 This dataset contains daily academic calendar indicators used to model campus occupancy and energy demand patterns.
