@@ -1,4 +1,5 @@
 # Building Performance Improvement Problem 🏢
+The building performance improventnent section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-exsisting buildings performance and sub-problem 1b focuses on sustainable energy performance. Read more below for more detailed descriptions and challanges related to each sub-problem.
 
 ## 📌 Sub-problem 1a: Improving Building Performance 
 Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a primary concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adapting to a climate that has more hot days and freezing nights. 
@@ -12,9 +13,7 @@ While there are no strict budget requirements, consider whether your solution's 
 
 The presentation of your solution can include a pitch deck for your solution, a small physical prototype of the new installation, or anything else that aids the demonstration. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
-
---
-## 📌 Sub-problem 1b:
+## 📌 Sub-problem 1b: Sustainable Energy Performance 
 As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
 
 Unlike older campus buildings constructed in the mid-to-late 20th century, new facilities have the opportunity to integrate high-performance systems from the ground up. However, designing a new building today presents its own challenges. It must anticipate a changing climate with more extreme heat and cold events, incorporate flexible learning environments, minimize operational carbon emissions, and remain adaptable for decades of evolving academic use. 
