@@ -11,10 +11,10 @@ You need to communicate the details of your design to the judges. Your solution 
 ## Potential Solutions
 | Solution | Description | Resources |
 |:---------|:------------|:----------|
-| **Energy Forecasting & Load Prediction** | Build models to predict campus electricity and heating demand based on weather, academic calendar, and historical usage. | <ul><li>Historical energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Dashboard frameworks (Plotly Dash, Streamlit, or HTML/CSS/JS)</li></ul> |
-| **Solar PV Potential Analysis** | Assess the technical and economic feasibility of installing solar PV on campus rooftops, parking lots, or open land. | <ul><li>Map of Shade</li><li>PVWatts / pvlib / PyPSA</li><li>System Advisor Model</li><li>Site suitability mapping (ArcGIS Pro or QGIS)</li></ul> |
-| **Geothermal & Alternative Heating** | Evaluate the potential for ground-source heat pumps or other renewable heating/cooling technologies to replace or supplement the existing district energy system. | <ul><li>Geothermal infrastructure tour</li><li>Weather data</li><li>GHEDesigner / FEFLOW</li><li>Historical energy consumption data</li></ul> |
-| **Energy Scavenging** | Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs. | <ul><li>Facility infrastructure information</li><li>Historical energy consumption data</li><li>Case studies on waste heat recovery</li><li>Thermodynamic analysis tools</li></ul> |
+| **Energy forecasting & load prediction** | Build models to predict campus electricity and heating demand based on weather, academic calendar, and historical usage. | <ul><li>Historical energy consumption data</li><li>Weather data</li><li>Academic Calendar Archives</li><li>Dashboard frameworks (Plotly Dash, Streamlit, or HTML/CSS/JS)</li></ul> |
+| **Solar PV potential analysis** | Assess the technical and economic feasibility of installing solar PV on campus rooftops, parking lots, or open land. | <ul><li>Map of Shade</li><li>PVWatts / pvlib / PyPSA</li><li>System Advisor Model</li><li>Site suitability mapping (ArcGIS Pro or QGIS)</li></ul> |
+| **Geothermal & alternative heating** | Evaluate the potential for ground-source heat pumps or other renewable heating/cooling technologies to replace or supplement the existing district energy system. | <ul><li>Geothermal infrastructure tour</li><li>Weather data</li><li>GHEDesigner / FEFLOW</li><li>Historical energy consumption data</li></ul> |
+| **Energy scavenging** | Reuse waste heat from wastewater, data servers, or other campus processes to supplement heating needs. | <ul><li>Facility infrastructure information</li><li>Historical energy consumption data</li><li>Case studies on waste heat recovery</li><li>Thermodynamic analysis tools</li></ul> |
 
 ## Resources
 - [Energy data | Sustainability | University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
