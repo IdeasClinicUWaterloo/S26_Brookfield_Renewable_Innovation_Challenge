@@ -7,7 +7,7 @@ Many buildings in the University of Waterloo campus were built in the 1950s –1
 ## Challenge
 Choose one building at UW (any teaching, residence or plant operations building) and propose a building performance retrofit strategy that reduces the energy required to maintain its operations. After the modification, the building should still be maintained at a comfortable temperature, supply all appliance usage, and support full capacity operation for its intended usage. 
 
-Your modification should focus on reducing the energy consumed by the building but can also focus on other areas of improvement including human accessibility in the building or improving environmental interactions between the building and the surrounding environment. Your solution does not have to cover an entire building.  
+Your modification should focus on reducing the energy consumed by the building, but can also focus on other areas of improvement including human accessibility in the building or improving environmental interactions between the building and the surrounding environment. Your solution does not have to cover an entire building.  
 
 While there are no strict budget requirements, consider whether your solution's impact can justify your project's spending. Also, consider why your solution is beneficial to the campus beyond saving energy usage and carbon emissions. 
 
