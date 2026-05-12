@@ -56,7 +56,7 @@ Below are the current environmental data provided:
 - UV index
 
 ### Setup: 
-1. Download Arduino IDE via: https://docs.arduino.cc/software/ide/
+1. Download [Arduino IDE](https://docs.arduino.cc/software/ide/)
 2. Navigate to the src folder, copy and paste main.cpp into a new Arduino project
 3. Use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO，Grove Temperature And Humidity Sensor
     - make sure each library is at the newest version. You can select versions from the dropdown menu below each library
@@ -72,15 +72,15 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 3. Press the power button at the bottom of the camera and wait. The module should first display an orange light, then flashing green when functioning
 4. If the module has no response while powering or connecting, use the charging wire inside the case to charge the module, then retry.
 ### Sensors and resources
-- general resource: a comprehensive introduction to sensors offered in the kit https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/
-- electric current sensor: https://wiki.seeedstudio.com/Grove-Electricity_Sensor/
-- barometer sensor: https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/
+- general resource: [a comprehensive introduction to sensors](https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/) 
+- [electric current sensor]( https://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
+- [barometer sensor](https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/)
        - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
 ### General Information
-- building floor plans: https://uwaterloo.ca/plant-operations/floor-plans
-- Energy Usage Dataset: [Energy data from the University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
-- Environmental Office's [Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0) for Inspiration
-- Field trips (e.g. campus district energy system, EV3 Solar PV array and other LEED attributes, etc)
+- [UW Building Floor plan](https://uwaterloo.ca/plant-operations/floor-plans)
+- [Energy data | Sustainability |  University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
+- [Environmental Office's Ongoing Projects](https://uwaterloo.ca/sustainability-living-lab/catalogs/categories/climate-change-and-energy?page=0)
+- [LEED attributes in EV3](https://uwaterloo.ca/environment/about/ev3-leedr-platinum-certified)
 - [Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
 
 ---
