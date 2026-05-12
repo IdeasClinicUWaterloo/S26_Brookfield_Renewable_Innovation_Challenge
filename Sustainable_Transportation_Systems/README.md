@@ -13,7 +13,7 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 
 | Potential Solutions | Description | Resources |
 |:---------|:------------|:----------|
-| **Carpooling platform** | Develop a system that matches students and staff with similar commuting routes and schedules (e.g., daily commuting or weekend trips home). | <ul><li></li><li>Route optimization libraries (OSRM, NetworkX)</li><li>Google Maps API</li><li>Integration with campus authentication</li></ul> |
+| **Carpooling platform** | Develop a system that matches students and staff with similar commuting routes and schedules (e.g., daily commuting or weekend trips home). | <ul></li><li>Route optimization libraries (OSRM, NetworkX)</li><li>Google Maps API</li><li>Integration with campus authentication</li></ul> |
 | **Public transit integration (GRT / ION)** | Analyze ridership patterns and identify opportunities to improve integration between campus travel demand and public transit. | <ul><li>GRT ridership data</li><li>GIS mapping (ArcGIS, QGIS)</li><li>Transit demand modeling</li><li>Interactive dashboards (Tableau, Power BI, Dash)</li></ul> |
 | **Autonomous electric campus shuttle** | Design an autonomous electric shuttle operating on fixed campus routes. | <ul><li>Campus route maps</li><li>Robotic navigation tools</li><li>Vehicle dynamics simulation (CarSim, SUMO, PresScan)</li></ul> |
 | **On-demand robo taxi system** | Develop software that dynamically routes shared vehicles based on real-time ride requests. | <ul><li>Smart route planning applications template</li><li>Waterloo statistics of student residence clusters</li><li>Simulation platforms (MATSim / SUMO)</li></ul> |
