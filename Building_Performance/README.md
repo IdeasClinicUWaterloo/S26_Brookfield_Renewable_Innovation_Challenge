@@ -65,7 +65,7 @@ Below are the current environmental data provided:
 
 ## Additional Resources: 
 Several additional sensor modules are provided if you need more sensor measurements to support your project. Some potentially useful links are provided below. Please don't hesitate to reach out to the support team if there's any troubles during sensor setup. 
-### FLIR One camera Instructions
+### FLIR One Camera Instructions
 A thermal camera is provided as part of the challenge resource to help you obtain better thermal data around the building. 
 1. Download the Flir One app from your app store.
 2. Launch the application, then plug the camera into your phone's charging port.
