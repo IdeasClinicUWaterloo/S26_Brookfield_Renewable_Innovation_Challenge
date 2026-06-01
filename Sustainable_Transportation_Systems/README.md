@@ -28,3 +28,4 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 - [Figma Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/UI_Design/Getting_Started_with_Figma.md)
 - [Ultralytics YOLOv8](https://docs.ultralytics.com/models/yolov8/)
 - [Roboflow Universe](https://universe.roboflow.com/)
+- [Aggregated Breakdown of the fleet vehicles in UW](https://uofwaterloo-my.sharepoint.com/:x:/r/personal/a33zahid_uwaterloo_ca/Documents/Aggregated%20Breakdown%20of%20the%20fleet%20vehicles%20in%20UW.xlsx?d=w8f22e7a38aca42e7802ebc7fddff7501&csf=1&web=1&e=rc4jXT&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
