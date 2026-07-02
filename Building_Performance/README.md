@@ -71,6 +71,8 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 2. Launch the application, then plug the camera into your phone's charging port.
 3. Press the power button at the bottom of the camera and wait. The module should first display an orange light, then flashing green when functioning.
 4. If the module has no response while powering or connecting, use the charging wire inside the case to charge the module, then retry.
+
+   For more information, navigate to FLIR Cameras.pdf
 ### Sensors and resources
 - general resource: [a comprehensive introduction to sensors](https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/) 
 - [electric current sensor]( https://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
