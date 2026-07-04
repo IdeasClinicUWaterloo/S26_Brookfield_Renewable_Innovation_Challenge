@@ -64,3 +64,4 @@ For more information and a step-by-step guide on how to implement various tools 
 - Heliodons for architectual model evaluation (speak to co-op student)
 - [Google AI Studio for Application Prototyping](https://ai.google/studio)
 - Enroll in [GitHub Education](https://education.github.com/pack) with your UW Student ID to access [Copilot](https://github.com/features/copilot). Copilot is an AI-powered coding and chat assistant available in Visual Studio Code.
+- [Drawing Sets Demystified:  A Beginner's Guide Workshop Alina Zahid](file:///C:/Users/Tech%20it%20Up/Downloads/Drawing%20Sets%20Demystified_%20%20A%20Beginner's%20Guide%20Workshop_Alina_Zahid.pdf)
