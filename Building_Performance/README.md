@@ -85,6 +85,7 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - [LEED Attributes in EV3](https://uwaterloo.ca/environment/about/ev3-leedr-platinum-certified)
 - [Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
 - [Campus Progression Through Imagery](https://storymaps.arcgis.com/stories/7a05e37300114e0ca33d7b3cfc860dd8)
+- [UWaterloo Floor Plans](https://uwaterloo.ca/plant-operations/floor-plans)
 
   
 
