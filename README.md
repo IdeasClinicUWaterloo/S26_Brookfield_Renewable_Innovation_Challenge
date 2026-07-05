@@ -65,3 +65,8 @@ For more information and a step-by-step guide on how to implement various tools 
 - [Google AI Studio for Application Prototyping](https://ai.google/studio)
 - Enroll in [GitHub Education](https://education.github.com/pack) with your UW Student ID to access [Copilot](https://github.com/features/copilot). Copilot is an AI-powered coding and chat assistant available in Visual Studio Code.
 
+---
+
+## Presentation Slides Submission
+
+From each group, please submit the group number, solution title and description, and your presentation slides using [this form](https://forms.office.com/r/xAKjnD8DTv).
