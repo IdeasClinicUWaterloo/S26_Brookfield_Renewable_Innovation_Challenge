@@ -102,7 +102,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
      - **State income tax rate**: `0%`
      - **Sales tax**: `13%` (Ontario HST rate)
 
-![Financial parameters](images/financial.PNG)
+![the interface of the Financial Parameters menu. In the first section, Project Term Debt, Debt Percent has been set to 0%.In the second section, Analysis Parameters, Real Discount Rate has been set to 5% per year. In the third section, Project Tax and Insurance Rates, the Federal income tax rate has been set to 0%, the State income tax rate has been set to 0%, and the Sales tax has been set to 13%.](images/financial.PNG)
 
 ---
 
@@ -139,7 +139,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
 2. Under **Electric Load Data** → **Hourly or Subhourly Load Profile**, set **Electric load scaling factor** to `179`.  
    *(This scaled profile now represents the entire University of Waterloo campus electricity consumption.)*
 
-![Electric load](images/load.PNG)
+![the interface of the Electric Load menu. In the Hourly or Subhourly Load Profile section, the Electric load scaling factor has been set to 179.](images/load.PNG)
 
 ---
 
