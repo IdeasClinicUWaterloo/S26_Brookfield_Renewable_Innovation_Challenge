@@ -13,7 +13,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
    - **Financial Model** → **Commercial Owner**
 4. Click **OK** to create the project.
 
-![Project creation](images/project_creation.PNG)
+![the interface of SAM 2025.4.16. On the left side is a list of performance models. “Photovoltaic” has been opened, and below it, “Detailed PV Model” has been selected. On the right side is a list of financial models. “Distributed” has been opened, and below it, “Commercial Owner” has been selected.](images/project_creation.PNG)
 
 ---
 
@@ -25,7 +25,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
 4. Select **43.4724_-80.5408_nsrdb-GOES-tmy-v4-0-0_60_tmy** or the most recent TMY dataset available.
 5. Ensure the selected weather file appears under **Solar Resource Library**.
 
-![Location and resource](images/location.PNG)
+![the interface of the Solar Resource Library. There is a list of files. A file named “43.4724_-80.5408_nsrdb-GOES-tmy-v4-0-0_60_tmy” is highlighted.](images/location.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
 4. Under **Tracking & orientation**, set **Tilt (deg)** to `35` (optimized for latitude ~43° N).
 5. Verify that no system sizing warnings appear in the blue information box at the bottom of the page.
 
-![System design](images/system_design.PNG)
+![the interface of System Design. In the top left corner is the AC Sizing section, where the number of inverters has been set to 18. In the top right corner is the Sizing Summary section, where none of the settings have been changed from the default. In the middle is the DC Sizing and Configuration section, where, in subarray 1, the number of modules per string has been set to 23, and the number of strings in parallel has been set to 400. The other variables have not been changed. At the bottom is the Tracking and Orientation section, where Tilt has been set to 35 degrees.](images/system_design.PNG)
 
 ---
 
@@ -80,7 +80,7 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
    | Nov   | 10                    |
    | Dec   | 25                    |
 
-![Losses](images/losses.PNG)
+![the interface of the Losses menu. In the Irradiance Losses section, under Subarray 1, Average annual soiling loss percentage has been set to 12.083 repeating due to the user entering the monthly adjustment factors. Bifacial rear soiling is set to 0%, and Bifacial rack shading has been set to 4%.](images/losses.PNG)
 
 ---
 
