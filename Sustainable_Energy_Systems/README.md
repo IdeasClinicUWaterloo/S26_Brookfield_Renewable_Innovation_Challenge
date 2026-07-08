@@ -6,7 +6,14 @@ University campuses rely on a range of energy sources—including electricity, n
 ## Challenge 
 Develop a feasible strategy to improve the sustainability of energy systems at the University of Waterloo. Teams will analyze how campus energy use varies with weather and assess opportunities to integrate renewable energy sources. The challenge evaluates how these systems can reduce emissions, manage peak demand, and improve energy efficiency within existing campus infrastructure. 
 
-You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
+You need to communicate the details of your design to the judges. Your solution could include:
+- drawings
+- models
+- simulations
+- prototypes
+- anything else you think is useful for communicating your ideas
+
+Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
 
 ## Potential Solutions
 These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
