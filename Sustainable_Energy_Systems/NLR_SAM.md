@@ -1,19 +1,19 @@
-# Solar PV System Simulation with NREL SAM
+# Solar PV System Simulation with NLR SAM
 
-This guide provides a step-by-step workflow for simulating a solar photovoltaic (PV) system at the University of Waterloo campus using NREL's System Advisor Model (SAM). SAM is a free tool for modeling renewable energy performance, finances, and environmental impacts. This example can be extended to hybrid systems (e.g., PV + battery) or other renewable options.
+This guide provides a step-by-step workflow for simulating a solar photovoltaic (PV) system at the University of Waterloo campus using the National Laboratory of the Rockies (NLR) (formerly the National Renewable Energy Laboratory or NREL)'s System Advisor Model (SAM). SAM is a free tool for modeling renewable energy performance, finances, and environmental impacts. This example can be extended to hybrid systems (e.g., PV + battery) or other renewable options.
 
 ---
 
 ## Step 1: Install and Launch SAM
 
-1. Download and install SAM from [**NREL SAM Downloads**](https://sam.nrel.gov/download.html).
+1. Download and install SAM from [**NLR SAM Downloads**](https://sam.nlr.gov/download/version-2025-4-16.html).
 2. Launch SAM and click **Create New Project**.
 3. In the left panel, select:
    - **Photovoltaic** → **Detailed PV Model** (for accurate temperature/shading modeling)
    - **Financial Model** → **Commercial Owner**
 4. Click **OK** to create the project.
 
-![the interface of SAM 2025.4.16. On the left side is a list of performance models. “Photovoltaic” has been opened, and below it, “Detailed PV Model” has been selected. On the right side is a list of financial models. “Distributed” has been opened, and below it, “Commercial Owner” has been selected.](images/project_creation.PNG)
+![the interface of SAM version 2025.4.16. On the left side is a list of performance models. “Photovoltaic” has been opened, and below it, “Detailed PV Model” has been selected. On the right side is a list of financial models. “Distributed” has been opened, and below it, “Commercial Owner” has been selected.](images/project_creation.PNG)
 
 ---
 
@@ -147,4 +147,4 @@ This guide provides a step-by-step workflow for simulating a solar photovoltaic 
 
 1. Click **Simulate** at the bottom right of SAM. The software will calculate energy production, cash flow, and environmental impacts.
 
-![Simulation results](images/analysis.PNG)
+![A table showing the results of the simulation, long description follows. The two columns are labelled “Metric” and “Value”. The results are as follows: Annual AC energy in Year 1: 6,652,976 kWh. DC capacity factor in Year 1: 15.6%. Energy yield in Year 1: 1,363 kWh/kW. Performance ratio in Year 1: 0.86. LCOE Levelized cost of energy nominal: 11.97 ¢/kWh. LCOE Levelized cost of energy real: 9.41 ¢/kWh. Electricity bill without system (year 1): $24,062,402. Electricity bill with system (year 1): $22,955,790. Net savings with system (year 1): $1,106,612. Net present value: $10,033,938. Simple payback period: 5.7 years. Discounted payback period: 7.8 years. Net capital cost: $9,085,832. Equity: $9,085,832. Debt: $0.](images/analysis.PNG)
