@@ -21,25 +21,24 @@ In this challenge you will:
 Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a primary concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adapting to a climate that has more hot days and freezing nights. 
 
 ### Requirements
-Your solution should:
+Your solution must:
 
 - Select one University of Waterloo building (teaching, residence, or Plant Operations).
 - Propose a retrofit strategy that reduces building energy consumption.
-- Maintain occupant comfort and full building functionality.
-- Consider accessibility, environmental impact, and campus-wide benefits.
-- Demonstrate that the proposed solution is technically feasible.
-- Consider whether the expected benefits justify the implementation cost.
+- Maintain occupant comfort and full building operation.
+
+### Design Flexibility
+- Your solution does not need to cover the entire building.
+- Your solution may also address accessibility or environmental interactions.
+- There are no strict budget requirements, but cost-effectiveness should be considered.
 
 ### Deliverables
-Your final presentation may include one or more of the following:
+Your final presentation may include:
 
 - Pitch deck
 - Physical prototype
-- Building model
-- Simulation
-- Other materials that clearly communicate your solution
-
-Refer to the judging rubric and presentation instructions for submission requirements.
+- Demonstration materials
+- Or any other format that effectively communicates your solution
 
 ## 📌 Sub-problem 1b: Next Generation Sustainable Building Design
 As universities expand to accommodate growing student populations and evolving research needs, new campus buildings must be designed to meet higher standards of sustainability, resilience, and long-term performance. At the University of Waterloo, future development must align with institutional climate commitments while supporting modern teaching, research, and student life. 
@@ -49,27 +48,30 @@ Unlike older campus buildings constructed in the mid-to-late 20th century, new f
 New construction decisions—such as building orientation, envelope performance, structural systems, material selection, HVAC design, lighting strategies, and renewable energy integration—have long-term implications for energy use, occupant comfort, embodied carbon, and lifecycle costs. Early-stage design choices are critical to ensuring that the building operates efficiently while maintaining comfort, accessibility, and full functional capacity. 
 
 ### Requirements
-Your solution should:
+Your solution must:
 
-- Design a new academic building for the University of Waterloo.
-- Reduce operational energy use through passive and high-performance design.
-- Reduce embodied carbon through responsible material selection.
-- Maintain occupant comfort, indoor air quality, and accessibility.
-- Remain resilient to future climate conditions.
-- Consider long-term adaptability and lifecycle performance.
-- Select a suitable building site.
-- Visit the selected site and collect measurements or observations to support your design.
+- Design a new academic building.
+- Include site selection.
+- Reduce operational energy use.
+- Reduce embodied carbon.
+- Maintain occupant comfort and indoor air quality.
+- Support full academic functionality.
+- Be resilient to future climate conditions.
+- Visit the selected site to collect observations or measurements.
+
+### Recommended Activities
+You may also:
+
+- Visit other campus buildings for inspiration.
 
 ### Deliverables
-Your final presentation may include one or more of the following:
+Your design may include:
 
-- Architectural drawings
-- Building models
+- Drawings
+- Models
 - Simulations
-- Physical prototypes
-- Other materials that effectively communicate your design
-
-Refer to the judging rubric and presentation instructions for submission requirements.
+- Prototypes
+- Other materials that communicate your ideas
 
 ## Potential Solutions
 Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
