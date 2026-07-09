@@ -4,11 +4,11 @@ The building performance improvement section has been broken down into two sub-p
 ## Overview
 In this challenge you will:
 
-- Choose either Sub-problem 1a or 1b
-- Research an existing or future UW building
-- Develop a sustainable solution
-- Support your proposal with data or prototypes
-- Present your solution to the judges
+- **Choose** either Sub-problem 1a or 1b
+- **Research** an existing or future UW building
+- **Develop** a sustainable solution
+- **Support** your proposal with data or prototypes
+- **Present** your solution to the judges
 
 ## Table of Contents
 - [Sub-problem 1a](#-sub-problem-1a-improving-building-performance)
@@ -28,9 +28,9 @@ Your solution must:
 - Maintain occupant comfort and full building operation.
 
 ### Design Flexibility
-- Your solution does not need to cover the entire building.
+- Your solution **does not need to cover the entire building**.
 - Your solution may also address accessibility or environmental interactions.
-- There are no strict budget requirements, but cost-effectiveness should be considered.
+- There are **no strict budget requirements**, but cost-effectiveness should be considered.
 
 ### Deliverables
 Your final presentation may include:
@@ -74,9 +74,9 @@ Your design may include:
 - Other materials that communicate your ideas
 
 ## Potential Solutions
-Before you begin, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
+**Before you begin**, you should visit the sites/buildings that you are interested in improving and record/measure the site to better understand what you are seeking to improve. Make sure you take pictures to document the area(s). 
 
-These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate. 
+**These aren’t the only solutions**, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate. 
 
 | Potential Solutions | Description | Resources |
 | :--- | :--- | :--- |
@@ -92,8 +92,8 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 
 
 ## 💡 How to use this source code
-An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to collect data to support building your solution, or you can modify it to be a part of your solution! 
-To switch sensor to display: hold until screen changes, then release. 
+An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to **collect data** to support building your solution, or you can modify it to be a part of your solution! 
+To switch sensor to display: **hold** until screen changes, then release. 
 
 Below are the current environmental data provided: 
 - ambient temperature
@@ -111,19 +111,26 @@ Below are the current environmental data provided:
 
 ## Additional Resources: 
 Several additional sensor modules are provided if you need more sensor measurements to support your project. Some potentially useful links are provided below. Please don't hesitate to reach out to the support team if there's any troubles during sensor setup. 
+
 ### FLIR One Camera Instructions
 A thermal camera is provided as part of the challenge resource to help you obtain better thermal data around the building. 
 1. Download the Flir One app from your app store.
 2. Launch the application, then plug the camera into your phone's charging port.
 3. Press the power button at the bottom of the camera and wait. The module should first display an orange light, then flashing green when functioning.
-4. If the module has no response while powering or connecting, use the charging wire inside the case to charge the module, then retry.
+4. If the module has **no response** while powering or connecting, use the charging wire inside the case to **charge the module**, then retry.
 
-   For more information, navigate to FLIR Cameras.pdf
+   For more information, navigate to [FLIR Cameras.pdf](./FLIR%20Cameras.pdf)
+   
 ### Sensors and resources
 - general resource: [a comprehensive introduction to sensors](https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/) 
 - [electric current sensor]( https://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
 - [barometer sensor](https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/)
-       - You MUST unplug all other sensors, and toggle the black switch on the shield to 3.3V before plugging this sensor in
+
+    > [!WARNING]
+    > Before connecting the barometer sensor:
+    > - **Unplug** all other sensors.
+    > - Set the shield switch to **3.3V**.
+  
 ### General Information
 - [UW Building Floor Plans](https://uwaterloo.ca/plant-operations/floor-plans)
 - [Energy data | Sustainability |  University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
