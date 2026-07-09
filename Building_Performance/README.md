@@ -126,10 +126,12 @@ A thermal camera is provided as part of the challenge resource to help you obtai
 - [electric current sensor]( https://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
 - [barometer sensor](https://wiki.seeedstudio.com/grove_barometer_sensor_spa06_003/)
 
-    > [!WARNING]
-    > Before connecting the barometer sensor:
-    > - **Unplug** all other sensors.
-    > - Set the shield switch to **3.3V**.
+> [!WARNING]
+> The **barometer sensor requires a 3.3V configuration**.
+>
+> Before connecting it:
+> - **Unplug** all other sensors.
+> - Set the shield switch to **3.3V**.
   
 ### General Information
 - [UW Building Floor Plans](https://uwaterloo.ca/plant-operations/floor-plans)
