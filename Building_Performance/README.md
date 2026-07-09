@@ -1,6 +1,13 @@
 # Building Performance 🏘
 The building performance improvement section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-existing building's performance, while sub-problem 1b focuses on the next generation of sustainable building design. Read below for more detailed descriptions and challenges related to each sub-problem.
 
+## Table of Contents
+- [Sub-problem 1a](#-sub-problem-1a-improving-building-performance)
+- [Sub-problem 1b](#-sub-problem-1b-next-generation-sustainable-building-design)
+- [Potential Solutions](#potential-solutions)
+- [How to use this source code](#-how-to-use-this-source-code)
+- [Additional Resources](#additional-resources)
+
 ## 📌 Sub-problem 1a: Improving Building Performance 
 Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a primary concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adapting to a climate that has more hot days and freezing nights. 
 
