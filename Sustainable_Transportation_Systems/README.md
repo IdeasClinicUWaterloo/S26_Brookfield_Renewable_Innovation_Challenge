@@ -28,7 +28,7 @@ Your presentation should clearly communicate your design and how it addresses th
 - Videos or animations
 - Any additional materials that help explain your idea
 
-Before preparing your presentation, **review** the **[Judging ]Rubric(https://github.com/IdeasClinicUWaterloo/S26_Brookfield_Renewable_Innovation_Challenge/blob/main/Judging%20Criteria.pdf)]** and **Presentation Instructions** to ensure all requirements are met.
+Before preparing your presentation, **review** the **[[Judging Rubric](https://github.com/IdeasClinicUWaterloo/S26_Brookfield_Renewable_Innovation_Challenge/blob/main/Judging%20Criteria.pdf)]**and **Presentation Instructions** to ensure all requirements are met.
 ## Potential Solutions
 
 These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
