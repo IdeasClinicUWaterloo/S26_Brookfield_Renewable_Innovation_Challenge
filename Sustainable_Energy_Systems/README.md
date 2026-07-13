@@ -3,6 +3,15 @@ Around the world, institutions are working to transition toward more sustainable
 
 University campuses rely on a range of energy sources—including electricity, natural gas, and other fossil fuels—to power lighting, heating, and cooling systems, laboratories, computing infrastructure, and daily operations. At the University of Waterloo, campus energy consumption has steadily increased alongside expansion and rising demand. To align with institutional sustainability commitments, the university seeks to advance its goal of implementing cost-effective and practical strategies to reduce or minimize growth in campus energy use while transitioning to cleaner energy sources.
 
+## Table of Contents
+- [Challenge](#challenge)
+- [Potential Solutions](#potential-solutions)
+- [Resources](#resources)
+- [Datasets](#datasets)
+  - [Academic Calendar](#academic-calendar)
+  - [Electricity Consumption Monthly](#electricity-consumption-monthly)
+  - [Eric D. Soulis Weather Station](#eric-d-soulis-weather-station)
+
 ## Challenge 
 Develop a feasible strategy to improve the sustainability of energy systems at the University of Waterloo. Teams will analyze how campus energy use varies with weather and assess opportunities to integrate renewable energy sources. The challenge evaluates how these systems can reduce emissions, manage peak demand, and improve energy efficiency within existing campus infrastructure. 
 
