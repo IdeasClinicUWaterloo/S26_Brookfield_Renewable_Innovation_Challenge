@@ -8,7 +8,7 @@ The University of Waterloo is seeking transformative, campus-wide solutions 
 
 ## Your Mission
 
-Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that can be deployed on campus within 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility, and the project’s long-term contribution to decarbonizing campus.  
+Your team is tasked with developing actionable strategies that address key emission sources within University of Waterloo's (UW) campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that can be deployed on campus within 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility, and the project’s long-term contribution to decarbonizing campus.  
 
 Proposed solutions should consider technical and economic feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a decarbonized future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas —  to deliver a compelling, well-supported solution by the end of the weekend!  
 
@@ -19,7 +19,7 @@ Proposed solutions should consider technical and economic feasibility, community
 ## 🏘 Building Performance
 
 ### Challenge A
-You are tasked with selecting a University of Waterloo building and proposing a retrofit strategy to significantly reduce its energy consumption and carbon footprint. Whether you’re upgrading an aging "classic" like MC or optimizing a newer facility like E7 for extreme weather, your solution must maintain occupant comfort and operational functionality. Beyond just saving energy, your proposal should consider cost-effectiveness, human accessibility, and broader campus benefits, culminating in a pitch or prototype for judging.
+You are tasked with selecting a University of Waterloo building and proposing a retrofit strategy to significantly reduce its energy consumption and carbon footprint. Whether you’re upgrading an aging "classic" like Mathematics & Computer Building (MC) or optimizing a newer facility like Engineering 7 (E7) for extreme weather, your solution must maintain occupant comfort and operational functionality. Beyond just saving energy, your proposal should consider cost-effectiveness, human accessibility, and broader campus benefits, culminating in a pitch or prototype for judging.
 
 ### Challenge B
 This challenge requires you to design a new academic building at the University of Waterloo that serves as a model for low-carbon construction and climate resilience. Unlike a retrofit, you will start from the basics like site selection, material choice to reduce embodied carbon, and passive design to ensure the building can handle future weather extremes while supporting modern campus life. 
@@ -69,4 +69,4 @@ For more information and a step-by-step guide on how to implement various tools 
 
 ## Presentation Slides Submission
 
-From each group, please submit the group number, solution title and description, and your presentation slides using [this form](https://forms.office.com/r/xAKjnD8DTv).
+From each group, please submit the group number, solution title and description, and your presentation slides using the [Group Submission Form](https://forms.office.com/r/xAKjnD8DTv).
