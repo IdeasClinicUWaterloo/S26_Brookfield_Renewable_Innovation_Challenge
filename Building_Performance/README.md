@@ -11,11 +11,23 @@ In this challenge you will:
 - **Present** your solution to the judges
 
 ## Table of Contents
-- [Sub-problem 1a](#-sub-problem-1a-improving-building-performance)
-- [Sub-problem 1b](#-sub-problem-1b-next-generation-sustainable-building-design)
+
+- [Overview](#overview)
+- [Sub-problem 1a: Improving Building Performance](#-sub-problem-1a-improving-building-performance)
+  - [Requirements](#requirements)
+  - [Design Flexibility](#design-flexibility)
+  - [Deliverables](#deliverables)
+- [Sub-problem 1b: Next Generation Sustainable Building Design](#-sub-problem-1b-next-generation-sustainable-building-design)
+  - [Requirements](#requirements-1)
+  - [Recommended Activities](#recommended-activities)
+  - [Deliverables](#deliverables-1)
 - [Potential Solutions](#potential-solutions)
 - [How to use this source code](#-how-to-use-this-source-code)
+  - [Setup](#setup)
 - [Additional Resources](#additional-resources)
+  - [FLIR One Camera Instructions](#flir-one-camera-instructions)
+  - [Sensors and Resources](#sensors-and-resources)
+  - [General Information](#general-information)
 
 ## 📌 Sub-problem 1a: Improving Building Performance 
 Many buildings in the University of Waterloo campus were built in the 1950s –1990s and now struggle with inconsistent energy efficiency performance. To meet climate change action goals, UW must significantly reduce emissions by reducing the energy required to sustain the operations of campus buildings. Several buildings on campus, such as MC, DWE, and RCH, exhibit aging designs in multiple areas such as heating/cooling, building envelope, lighting, etc. Since these buildings were designed at a time when energy efficiency was not a primary concern, it is now apparent that the systems in these buildings need improvement. Although buildings such as E7 and QNC are relatively newly constructed, they also face challenges adapting to a climate that has more hot days and freezing nights. 
