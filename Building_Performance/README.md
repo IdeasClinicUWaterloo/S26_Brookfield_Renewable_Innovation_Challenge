@@ -1,6 +1,21 @@
 # Building Performance 🏘
 The building performance improvement section has been broken down into two sub-problems. Sub-problem 1a focuses on improving a pre-existing building's performance, while sub-problem 1b focuses on the next generation of sustainable building design. Read below for more detailed descriptions and challenges related to each sub-problem.
 
+## Challenge
+
+Develop practical and sustainable strategies to improve the performance of University of Waterloo buildings. Solutions should address energy efficiency, occupant comfort, and long-term environmental impact through either retrofitting existing buildings or designing future sustainable buildings.
+
+Teams should consider how building systems, including heating and cooling, lighting, building envelopes, renewable energy integration, and smart monitoring technologies, can reduce energy consumption and improve resilience to future climate conditions.
+
+Your solution should communicate how the proposed design can be implemented and evaluated. Teams may use:
+
+- Data analysis
+- Building simulations
+- Physical prototypes
+- Drawings or models
+- Sensor measurements
+- Any other materials that effectively demonstrate your idea
+
 ## Overview
 In this challenge you will:
 
@@ -12,6 +27,7 @@ In this challenge you will:
 
 ## Table of Contents
 
+- [Challenge](#challenge)
 - [Overview](#overview)
 - [Sub-problem 1a: Improving Building Performance](#-sub-problem-1a-improving-building-performance)
   - [Requirements](#requirements)
