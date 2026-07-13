@@ -12,7 +12,6 @@ Projects should consider how they can improve connections between public transit
 ## Table of Contents
 
 - [Challenge](#challenge)
-- [Final Presentation](#final-presentation)
 - [Potential Solutions](#potential-solutions)
 - [Resources](#resources)
 
