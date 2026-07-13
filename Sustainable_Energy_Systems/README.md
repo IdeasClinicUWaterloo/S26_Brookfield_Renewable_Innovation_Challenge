@@ -22,7 +22,7 @@ You need to communicate the details of your design to the judges. Your solution 
 - prototypes
 - anything else you think is useful for communicating your ideas
 
-Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
+Please refer to the [judging rubric](https://github.com/IdeasClinicUWaterloo/S26_Brookfield_Renewable_Innovation_Challenge/blob/main/Judging%20Criteria.pdf) and presentation instructions when planning your final presentation to the judges. 
 
 ## Potential Solutions
 These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
