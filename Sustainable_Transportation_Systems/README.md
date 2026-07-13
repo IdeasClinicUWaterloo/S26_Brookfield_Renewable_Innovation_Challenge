@@ -18,7 +18,7 @@ Projects should consider how they can improve connections between public transit
 ## Challenge
 Your goal is to develop practical solutions that reduce vehicle emissions and fossil-fuel use on campus. The solution should improve transportation efficiency for students, staff, and campus operations. Teams are encouraged to integrate with existing campus and municipal infrastructure where possible to provide measurable sustainability outcomes. Solutions may include software platforms, infrastructure proposals, optimization algorithms, or hardware prototypes.
 
-****Final Presentation******
+****Final Presentation****
 Your team will present your solution to the judges.
 Your presentation should clearly communicate your design and how it addresses the challenge. Depending on your project, you may include:
 - Drawings
