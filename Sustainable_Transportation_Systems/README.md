@@ -9,6 +9,13 @@ To support its sustainability goals, the University of Waterloo aims to:
 
 Projects should consider how they can improve connections between public transit, parking areas, residences, and campus destinations (often called first- and last-mile connectivity) while making transportation more efficient and accessible.
 
+## Table of Contents
+
+- [Challenge](#challenge)
+- [Final Presentation](#final-presentation)
+- [Potential Solutions](#potential-solutions)
+- [Resources](#resources)
+
 ## Challenge
 Your goal is to develop practical solutions that reduce vehicle emissions and fossil-fuel use on campus. The solution should improve transportation efficiency for students, staff, and campus operations. Teams are encouraged to integrate with existing campus and municipal infrastructure where possible to provide measurable sustainability outcomes. Solutions may include software platforms, infrastructure proposals, optimization algorithms, or hardware prototypes.
 
