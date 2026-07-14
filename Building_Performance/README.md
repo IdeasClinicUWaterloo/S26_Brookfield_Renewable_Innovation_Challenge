@@ -126,7 +126,7 @@ For more information, navigate to [FLIR Cameras.pdf](./FLIR%20Cameras.pdf)
 
 ### Arduino and Grove Kits
 Arduino and Grove kits are provided as part of the challenge.
-For more information, navigate to [Arduino GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Arduino)) and [Grove Kit GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Sensors/Seed_Grove_Kit)
+For more information, navigate to [Arduino GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Arduino) and [Grove Kit GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Sensors/Seed_Grove_Kit)
    
 ### Sensors and resources
 - general resource: [a comprehensive introduction to sensors](https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/) 
