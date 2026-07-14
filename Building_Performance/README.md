@@ -117,32 +117,16 @@ Your design may include:
 | **New infrastructure recommendation** | Proposal of a new building and a series of protocols for that building to ensure minimal increase of carbon emissions. | • Building modelling tools<br>• Crafting equipment |
 
 
-
-
-## 💡 How to use this source code
-An Arduino-based environmental sensor package is provided as a part of this challenge. This package has a click button, where you can switch the screen to display different sensor readings. This package can be used to **collect data** to support building your solution, or you can modify it to be a part of your solution! 
-To switch sensor to display: **hold** until screen changes, then release. 
-
-Below are the current environmental data provided: 
-- ambient temperature
-- air humidity
-- ambient light (output range: 0-800, brighter light = larger output)
-- UV index
-
-### Setup: 
-1. Download [Arduino IDE](https://docs.arduino.cc/software/ide/).
-2. Navigate to the src folder, copy and paste main.cpp into a new Arduino project.
-3. Use the book icon at the left of the IDE page to navigate to library manager, search and download the following: Adafruit GFX Library, Adafruit SSD1351 library, Adafruit BusIO，Grove Temperature And Humidity Sensor.
-    - make sure each library is at the newest version. You can select versions from the dropdown menu below each library
-4. Click upload (right-pointing arrow) on the IDE to run the code on the sensor package.
-
-
 ## Additional Resources: 
 Several additional sensor modules are provided if you need more sensor measurements to support your project. Some potentially useful links are provided below. Please don't hesitate to reach out to the support team if there's any troubles during sensor setup. 
 
 ### FLIR One Camera Instructions
 A thermal camera is provided as part of the challenge resource to help you obtain better thermal data around the building. 
 For more information, navigate to [FLIR Cameras.pdf](./FLIR%20Cameras.pdf)
+
+### Arduino and Grove Kits
+Arduino and Grove kits are provided as part of the challenge.
+For more information, navigate to [Arduino GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Arduino)) and [Grove Kit GitHub](https://github.com/IdeasClinicUWaterloo/TechResources/tree/539c4494f18ebc8f0cb0790a7b44da07e071f781/Sensors/Seed_Grove_Kit)
    
 ### Sensors and resources
 - general resource: [a comprehensive introduction to sensors](https://wiki.seeedstudio.com/Grove_Starter_Kit_v3/) 
